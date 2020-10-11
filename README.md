@@ -1,4 +1,4 @@
-# GAM537_A1
+# GAM537 - ASSIGNMENT 1
 
 ## Overview
 
