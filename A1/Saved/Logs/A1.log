@@ -2324,3 +2324,642 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.04-21.51.55:585][737]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CCD0EC6E00), frame # 48737
 [2020.11.04-21.51.55:589][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
 [2020.11.04-21.51.55:651][738]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.11.04-21.57.59:071][956]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level_1.Level_1
+[2020.11.04-21.57.59:106][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.11.04-21.58.00:875][956]LogSlate: Window 'Save Content' being destroyed
+[2020.11.04-21.58.06:743][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.04-21.58.10:174][615]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.04-21.59.11:026][592]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.11.04-21.59.11:037][592]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.11.04-21.59.15:105][ 31]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level_1.Level_1
+[2020.11.04-21.59.15:137][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.11.04-21.59.16:528][ 31]LogSlate: Window 'Save Content' being destroyed
+[2020.11.04-21.59.26:908][ 20]LogSlate: Window 'Tutorials' being destroyed
+[2020.11.04-21.59.29:850][270]Cmd: SELECT NONE
+[2020.11.04-21.59.32:670][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew)
+[2020.11.04-21.59.46:745][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.04-21.59.46:745][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.04-21.59.46:745][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.04-21.59.46:745][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.04-21.59.46:745][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.04-21.59.46:745][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.04-21.59.46:745][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.04-21.59.46:745][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.04-21.59.46:746][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.04-21.59.46:761][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2020.11.04-21.59.46:761][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2020.11.04-21.59.46:761][743]LogMetaData: Removing '/Game/Assignment/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2020.11.04-21.59.46:772][743]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_PointLight_Flickering.BP_PointLight_Flickering:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.PackageMetaData'
+[2020.11.04-21.59.46:772][743]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_PointLight_Flickering.BP_PointLight_Flickering_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.PackageMetaData'
+[2020.11.04-21.59.46:772][743]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_PointLight_Flickering.BP_PointLight_Flickering:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.PackageMetaData'
+[2020.11.04-21.59.46:772][743]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_PointLight_Flickering.SKEL_BP_PointLight_Flickering_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.PackageMetaData'
+[2020.11.04-21.59.46:772][743]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_PointLight_Flickering.SKEL_BP_PointLight_Flickering_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.PackageMetaData'
+[2020.11.04-21.59.46:772][743]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_PointLight_Flickering.SKEL_BP_PointLight_Flickering_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.PackageMetaData'
+[2020.11.04-21.59.46:772][743]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_PointLight_Flickering.BP_PointLight_Flickering_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.PackageMetaData'
+[2020.11.04-21.59.46:899][743]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/ThirdPersonCharacterC383BC194882C559B7160EB34B266F08.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.04-21.59.47:156][743]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/ThirdPersonCharacter642FC9B349565D12AF14AAAF3B72A6C5.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.04-21.59.47:179][743]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/ThirdPersonGameMode729D28504B016F3DB4B89099460469B7.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/ThirdPersonGameMode.uasset'
+[2020.11.04-21.59.47:445][743]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/ThirdPersonGameMode16410D3C440C2DEDD245F8A90A22540E.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2020.11.04-21.59.47:496][743]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_PointLight_FlickeringF753F87645DBCCB61C8454A1FE8B7333.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_PointLight_Flickering.uasset'
+[2020.11.04-21.59.47:776][743]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_PointLight_FlickeringD347DB34431E4686AAB8D1BCC2C67107.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.uasset'
+[2020.11.04-21.59.49:285][743]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-21.59.49:285][743]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.04-21.59.49:285][743]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.04-21.59.49:285][743]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+[2020.11.04-21.59.49:285][743]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2020.11.04-21.59.49:285][743]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.11.04-21.59.49:286][743]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.11.04-21.59.49:286][743]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.Default__ThirdPersonGameMode_C
+[2020.11.04-21.59.49:286][743]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2020.11.04-21.59.49:286][743]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/BP_PointLight_Flickering.BP_PointLight_Flickering
+[2020.11.04-21.59.49:286][743]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.BP_PointLight_Flickering
+[2020.11.04-21.59.49:286][743]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.Default__BP_PointLight_Flickering_C
+[2020.11.04-21.59.49:286][743]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.BP_PointLight_Flickering_C
+[2020.11.04-21.59.57:730][208]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.11.04-21.59.57:737][208]LogMetaData: Removing '/Game/Assignment/Maps/Level_1.Level_1_C' ref from Metadata '/Game/ThirdPersonBP/Maps/Level_1.PackageMetaData'
+[2020.11.04-21.59.57:737][208]LogMetaData: Removing '/Game/Assignment/Maps/Level_1.SKEL_Level_1_C' ref from Metadata '/Game/ThirdPersonBP/Maps/Level_1.PackageMetaData'
+[2020.11.04-21.59.57:806][208]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.11.04-21.59.57:807][208]LogMetaData: Removing '/Game/Assignment/Maps/Level_2.Level_2_C' ref from Metadata '/Game/ThirdPersonBP/Maps/Level_2.PackageMetaData'
+[2020.11.04-21.59.57:807][208]LogMetaData: Removing '/Game/Assignment/Maps/Level_2.SKEL_Level_2_C' ref from Metadata '/Game/ThirdPersonBP/Maps/Level_2.PackageMetaData'
+[2020.11.04-21.59.57:836][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_2_BuiltData" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_2_BuiltData.uasset" SILENT=true
+[2020.11.04-21.59.58:228][208]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_2_BuiltDataE7F33DE24AD3134FC6D6EFBF257F5CB9.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_2_BuiltData.uasset'
+[2020.11.04-21.59.59:118][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level_2_BuiltData" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset" SILENT=true
+[2020.11.04-21.59.59:148][208]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_2_BuiltData6FA1C04442D748F0250126B1DDE64D55.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset'
+[2020.11.04-21.59.59:156][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_1_BuiltData" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2020.11.04-21.59.59:412][208]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1_BuiltDataB7044C0E4815B9039DB80C9C66D8EFEF.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset'
+[2020.11.04-22.00.00:120][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level_1_BuiltData" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2020.11.04-22.00.00:147][208]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1_BuiltData5F9D0AAC491B94D896ACA6ADCB09D3C5.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Maps/Level_1_BuiltData.uasset'
+[2020.11.04-22.00.00:188][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.11.04-22.00.00:271][208]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1F0ED60C949ABD2BF3F0C3E9D250EAE81.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1.umap'
+[2020.11.04-22.00.01:026][208]LogFileHelpers: Saving map 'Level_1' took 0.871
+[2020.11.04-22.00.01:028][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level_1" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Maps/Level_1.umap" SILENT=true
+[2020.11.04-22.00.01:055][208]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_17A536D56422679B3DD1AEC94FE9C388A.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Maps/Level_1.umap'
+[2020.11.04-22.00.01:112][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.11.04-22.00.01:208][208]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_2ED93F4454253C5FBC9D2F4B5D80635D9.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_2.umap'
+[2020.11.04-22.00.02:041][208]LogFileHelpers: Saving map 'Level_2' took 0.980
+[2020.11.04-22.00.02:043][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level_2" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Maps/Level_2.umap" SILENT=true
+[2020.11.04-22.00.02:073][208]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_22A0F710B48D56E0841980CBC02DB3D72.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/Maps/Level_2.umap'
+[2020.11.04-22.00.04:255][208]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-22.00.04:255][208]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assignment/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2020.11.04-22.00.04:255][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2020.11.04-22.00.04:255][208]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assignment/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.11.04-22.00.04:255][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.11.04-22.00.04:255][208]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_1.Level_1
+[2020.11.04-22.00.04:255][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Maps/Level_1.Level_1_C
+[2020.11.04-22.00.04:255][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Maps/Level_1.Level_1
+[2020.11.04-22.00.04:256][208]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_2.Level_2
+[2020.11.04-22.00.04:256][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Maps/Level_2.Level_2_C
+[2020.11.04-22.00.04:256][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2020.11.04-22.00.12:192][684]LogSlate: Window 'Failed Renames' being destroyed
+[2020.11.04-22.00.28:079][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2020.11.04-22.00.28:166][ 12]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_19AFFA2A643D073992AEDAE9E3B9929D4.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1.umap'
+[2020.11.04-22.00.28:336][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_1_BuiltData" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2020.11.04-22.00.28:588][ 12]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1_BuiltDataDFF3939A49375E64E608FCB9D0869356.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset'
+[2020.11.04-22.00.28:608][ 12]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-22.00.28:608][ 12]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_1.Level_1
+[2020.11.04-22.00.28:608][ 12]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assignment/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.11.04-22.00.32:128][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Content: 'F:/Epic Games/UE_4.25/Engine/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.32:129][254]SourceControl: fatal: F:/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'F:/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'F:/Unreal Projects/Assignment2/GAM537_A1'
+[2020.11.04-22.00.34:256][254]LogSlate: Window 'Save Content' being destroyed
+[2020.11.04-22.00.34:491][254]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/ThirdPersonCharacter0DBE6CD14B4FCA908F40A3BA5DD44E74.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.04-22.00.43:511][254]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.04-22.00.46:393][254]LogSourceControl: commit successful: [master f0f8db2] organize assets
+[2020.11.04-22.00.46:808][254]SourceControl: [master f0f8db2] organize assets
+[2020.11.04-22.00.46:808][254]SourceControl:  14 files changed, 0 insertions(+), 0 deletions(-)
+[2020.11.04-22.00.46:808][254]SourceControl:  create mode 100644 A1/Content/Assignment/Blueprints/BP_PointLight_Flickering.uasset
+[2020.11.04-22.00.46:808][254]SourceControl:  create mode 100644 A1/Content/Assignment/Blueprints/ThirdPersonCharacter.uasset
+[2020.11.04-22.00.46:808][254]SourceControl:  create mode 100644 A1/Content/Assignment/Blueprints/ThirdPersonGameMode.uasset
+[2020.11.04-22.00.46:808][254]SourceControl:  copy A1/Content/{ThirdPersonBP => Assignment}/Maps/Level_1.umap (98%)
+[2020.11.04-22.00.46:808][254]SourceControl:  copy A1/Content/{ThirdPersonBP => Assignment}/Maps/Level_1_BuiltData.uasset (99%)
+[2020.11.04-22.00.46:808][254]SourceControl:  copy A1/Content/{ThirdPersonBP => Assignment}/Maps/Level_2.umap (98%)
+[2020.11.04-22.00.46:808][254]SourceControl:  copy A1/Content/{ThirdPersonBP => Assignment}/Maps/Level_2_BuiltData.uasset (99%)
+[2020.11.04-22.00.46:808][254]SourceControl:  rewrite A1/Content/ThirdPersonBP/Blueprints/BP_PointLight_Flickering.uasset (100%)
+[2020.11.04-22.00.46:808][254]SourceControl:  rewrite A1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (99%)
+[2020.11.04-22.00.46:808][254]SourceControl:  rewrite A1/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset (100%)
+[2020.11.04-22.00.46:808][254]SourceControl:  rewrite A1/Content/ThirdPersonBP/Maps/Level_1.umap (99%)
+[2020.11.04-22.00.46:808][254]SourceControl:  rewrite A1/Content/ThirdPersonBP/Maps/Level_1_BuiltData.uasset (99%)
+[2020.11.04-22.00.46:808][254]SourceControl:  rewrite A1/Content/ThirdPersonBP/Maps/Level_2.umap (99%)
+[2020.11.04-22.00.46:808][254]SourceControl:  rewrite A1/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset (99%)
+[2020.11.04-22.00.46:821][254]SourceControl: Commited [master f0f8db2] organize assets.
+[2020.11.04-22.00.46:869][255]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.11.04-22.00.46:869][255]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.04-22.00.50:974][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.11.04-22.00.51:042][603]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1F4B266C64776E752000DFBBE2E56A7D0.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1.umap'
+[2020.11.04-22.00.51:207][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_1_BuiltData" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2020.11.04-22.00.51:470][603]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1_BuiltData468917314C754D1C945F9B835523DF22.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset'
+[2020.11.04-22.00.51:495][603]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-22.00.51:495][603]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_1.Level_1
+[2020.11.04-22.00.51:495][603]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assignment/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.11.04-22.00.53:761][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.04-22.01.10:209][817]LogSlate: Window 'Replace References?' being destroyed
+[2020.11.04-22.01.10:215][817]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with FloorNew_StaticMesh; and then delete them.
+
+Are you sure?
+[2020.11.04-22.01.10:215][817]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.04-22.01.10:250][817]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.01.10:250][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.01.10:344][817]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.04-22.01.10:344][817]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.01.10:344][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.01.10:426][817]LogSlate: Window 'BS_CrouchWalk' being destroyed
+[2020.11.04-22.01.10:546][817]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.01.10:546][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.01.10:586][817]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.01.10:586][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.01.19:107][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.11.04-22.01.20:622][817]LogSlate: Window 'Save Content' being destroyed
+[2020.11.04-22.01.21:046][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.11.04-22.01.21:108][817]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1C7FA35B84AB8F11D1454E1ACFD213DCB.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1.umap'
+[2020.11.04-22.01.21:159][817]LogFileHelpers: Saving map 'Level_1' took 0.186
+[2020.11.04-22.01.21:159][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/FloorNew_StaticMesh" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/FloorNew_StaticMesh.uasset" SILENT=true
+[2020.11.04-22.01.21:186][817]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/FloorNew_StaticMesh266CF23C46270EA3533D61928F4C596B.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/ThirdPersonBP/FloorNew_StaticMesh.uasset'
+[2020.11.04-22.01.21:210][817]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-22.01.21:210][817]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_1.Level_1
+[2020.11.04-22.01.21:210][817]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/FloorNew_StaticMesh.FloorNew_StaticMesh
+[2020.11.04-22.01.30:848][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.11.04-22.01.37:348][765]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.04-22.01.39:274][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.04-22.01.42:263][911]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.04-22.01.42:571][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.11.04-22.01.42:591][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.11.04-22.01.42:609][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.04-22.01.42:625][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.04-22.01.42:643][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.04-22.01.42:660][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.11.04-22.01.42:678][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.04-22.01.42:696][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.04-22.01.42:713][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.11.04-22.01.42:734][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.11.04-22.01.42:756][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.11.04-22.01.42:786][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.11.04-22.01.42:805][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.11.04-22.01.43:182][911]SourceControl: Error: Updated 0 paths from the index
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/BS_CrouchWalk.uasset'
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/BS_Idle_Walk_Run.uasset'
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/Crouch_Idle_Rifle_Hip.uasset'
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/Crouch_Walk_Bwd_Rifle_Hip1.uasset'
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/Muriel_Animation_BP.uasset'
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/My_MurielPlayerCharacter.uasset'
+[2020.11.04-22.01.43:403][911]SourceControl: rm 'A1/Content/T_Char_Muriel/My_Muriel_Gamemode_BP.uasset'
+[2020.11.04-22.01.45:485][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-22.01.45:509][ 87]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.11.04-22.01.45:512][ 87]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.11.04-22.01.45:548][ 87]LogPlayLevel: [PlayLevel] Compiling Level_1 before play...
+[2020.11.04-22.01.45:585][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.11.04-22.01.45:597][ 87]LogPlayLevel: PlayLevel: Blueprint regeneration took 87 ms (2 blueprints)
+[2020.11.04-22.01.45:597][ 87]PIE: New page: PIE session: Level_1 (Nov. 4, 2020, 12:01:45 p.m.)
+[2020.11.04-22.01.45:598][ 87]LogPlayLevel: Creating play world package: /Game/Assignment/Maps/UEDPIE_0_Level_1
+[2020.11.04-22.01.45:628][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030368s)
+[2020.11.04-22.01.45:630][ 87]LogAIModule: Creating AISystem for world Level_1
+[2020.11.04-22.01.45:630][ 87]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CC9A3AE400), frame # 65087
+[2020.11.04-22.01.45:630][ 87]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CCC0F9DBC0), frame # 65087
+[2020.11.04-22.01.45:630][ 87]LogPlayLevel: PIE: World Init took: (0.002201s)
+[2020.11.04-22.01.45:630][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Maps/Level_1.Level_1 to /Game/Assignment/Maps/UEDPIE_0_Level_1.Level_1 (0.032761s)
+[2020.11.04-22.01.45:655][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.11.04-22.01.45:657][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-22.01.45:657][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-22.01.45:657][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-22.01.45:658][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-22.01.45:658][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-22.01.45:658][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-22.01.45:658][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-22.01.45:658][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-22.01.45:658][ 87]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-22.01.45:658][ 87]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-22.01.45:669][ 87]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-22.01.45:669][ 87]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-22.01.45:669][ 87]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.04-22.01.45:669][ 87]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.04-22.01.45:669][ 87]LogAudioMixer: Display: 4: BackLeft
+[2020.11.04-22.01.45:669][ 87]LogAudioMixer: Display: 5: BackRight
+[2020.11.04-22.01.45:669][ 87]LogAudioMixer: Display: 6: SideLeft
+[2020.11.04-22.01.45:669][ 87]LogAudioMixer: Display: 7: SideRight
+[2020.11.04-22.01.45:707][ 87]LogAudioMixer: Display: Using Audio Device Speakers (3- Corsair Gaming H1500 Headset)
+[2020.11.04-22.01.45:707][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-22.01.45:707][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-22.01.45:707][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-22.01.45:708][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-22.01.45:722][ 87]LogInit: FAudioDevice initialized.
+[2020.11.04-22.01.45:735][ 87]LogLinker: Warning: Failed to load '/Game/T_Char_Muriel/My_Muriel_Gamemode_BP': Can't find file.
+[2020.11.04-22.01.45:736][ 87]LogLinker: Warning: Failed to load '/Game/T_Char_Muriel/My_Muriel_Gamemode_BP': Can't find file.
+[2020.11.04-22.01.45:736][ 87]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/T_Char_Muriel/My_Muriel_Gamemode_BP.My_Muriel_Gamemode_BP_C'
+[2020.11.04-22.01.45:737][ 87]LogLoad: Game class is 'GameModeBase'
+[2020.11.04-22.01.45:742][ 87]LogWorld: Bringing World /Game/Assignment/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.11.04-17.01.45
+[2020.11.04-22.01.45:743][ 87]LogWorld: Bringing up level for play took: 0.004567
+[2020.11.04-22.01.45:743][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.11.04-22.01.45:746][ 87]PIE: Server logged in
+[2020.11.04-22.01.45:747][ 87]PIE: Play in editor total start time 0.24 seconds.
+[2020.11.04-22.01.50:495][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-22.01.50:495][502]LogWorld: BeginTearingDown for /Game/Assignment/Maps/UEDPIE_0_Level_1
+[2020.11.04-22.01.50:495][502]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.01.50:496][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.01.50:507][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-22.01.50:511][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.01.50:530][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-22.01.50:548][502]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CCC0F9DBC0), frame # 65502
+[2020.11.04-22.01.50:549][502]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CC9A3AE400), frame # 65502
+[2020.11.04-22.01.50:551][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.11.04-22.01.50:604][503]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.11.04-22.01.52:266][681]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.11.04-22.02.06:492][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assignment/Muriel_Character/My_Muriel_Gamemode_BP.My_Muriel_Gamemode_BP
+[2020.11.04-22.02.10:519][ 28]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.04-22.02.15:228][286]BlueprintLog: New page: Compile My_Muriel_Gamemode_BP
+[2020.11.04-22.02.15:275][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.11.04-22.02.15:871][308]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/My_Muriel_Gamemode_BPD1E612E543856695839E36ACC3B3B4F3.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Muriel_Character/My_Muriel_Gamemode_BP.uasset'
+[2020.11.04-22.02.15:899][308]AssetCheck: New page: Asset Save: My_Muriel_Gamemode_BP
+[2020.11.04-22.02.15:899][308]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Muriel_Character/My_Muriel_Gamemode_BP.My_Muriel_Gamemode_BP
+[2020.11.04-22.02.16:488][339]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.04-22.02.18:459][477]LogSlate: Window 'My_Muriel_Gamemode_BP' being destroyed
+[2020.11.04-22.02.18:469][477]LogSlate: Window 'My_Muriel_Gamemode_BP' being destroyed
+[2020.11.04-22.02.18:491][477]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.02.18:491][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.02.19:326][551]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-22.02.19:348][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-22.02.19:348][551]PIE: New page: PIE session: Level_1 (Nov. 4, 2020, 12:02:19 p.m.)
+[2020.11.04-22.02.19:348][551]LogPlayLevel: Creating play world package: /Game/Assignment/Maps/UEDPIE_0_Level_1
+[2020.11.04-22.02.19:367][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019213s)
+[2020.11.04-22.02.19:368][551]LogAIModule: Creating AISystem for world Level_1
+[2020.11.04-22.02.19:369][551]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CCC34A0200), frame # 67551
+[2020.11.04-22.02.19:369][551]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CC7BC1AE80), frame # 67551
+[2020.11.04-22.02.19:369][551]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2020.11.04-22.02.19:369][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Maps/Level_1.Level_1 to /Game/Assignment/Maps/UEDPIE_0_Level_1.Level_1 (0.020857s)
+[2020.11.04-22.02.19:398][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.11.04-22.02.19:401][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-22.02.19:401][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-22.02.19:401][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-22.02.19:401][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-22.02.19:401][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-22.02.19:401][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-22.02.19:401][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-22.02.19:401][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-22.02.19:401][551]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-22.02.19:401][551]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-22.02.19:411][551]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-22.02.19:411][551]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-22.02.19:411][551]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.04-22.02.19:411][551]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.04-22.02.19:411][551]LogAudioMixer: Display: 4: BackLeft
+[2020.11.04-22.02.19:411][551]LogAudioMixer: Display: 5: BackRight
+[2020.11.04-22.02.19:411][551]LogAudioMixer: Display: 6: SideLeft
+[2020.11.04-22.02.19:411][551]LogAudioMixer: Display: 7: SideRight
+[2020.11.04-22.02.19:448][551]LogAudioMixer: Display: Using Audio Device Speakers (3- Corsair Gaming H1500 Headset)
+[2020.11.04-22.02.19:448][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-22.02.19:448][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-22.02.19:448][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-22.02.19:449][551]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-22.02.19:462][551]LogInit: FAudioDevice initialized.
+[2020.11.04-22.02.19:471][551]LogLoad: Game class is 'GameModeBase'
+[2020.11.04-22.02.19:476][551]LogWorld: Bringing World /Game/Assignment/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.11.04-17.02.19
+[2020.11.04-22.02.19:476][551]LogWorld: Bringing up level for play took: 0.004584
+[2020.11.04-22.02.19:476][551]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.11.04-22.02.19:479][551]PIE: Server logged in
+[2020.11.04-22.02.19:480][551]PIE: Play in editor total start time 0.134 seconds.
+[2020.11.04-22.02.20:464][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-22.02.20:464][625]LogWorld: BeginTearingDown for /Game/Assignment/Maps/UEDPIE_0_Level_1
+[2020.11.04-22.02.20:465][625]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.02.20:465][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.02.20:477][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-22.02.20:481][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.02.20:516][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-22.02.20:517][625]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CC7BC1AE80), frame # 67625
+[2020.11.04-22.02.20:517][625]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CCC34A0200), frame # 67625
+[2020.11.04-22.02.20:521][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.11.04-22.02.20:573][626]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.11.04-22.02.22:272][752]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assignment/Muriel_Character/Muriel_Animation_BP.Muriel_Animation_BP
+[2020.11.04-22.02.22:284][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.04-22.02.22:894][752]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.04-22.02.23:490][752]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.04-22.02.24:971][820]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Assignment/Muriel_Character/BS_CrouchWalk.BS_CrouchWalk
+[2020.11.04-22.02.24:976][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.04-22.02.25:021][820]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.04-22.02.25:569][820]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.04-22.02.40:475][684]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.02.40:475][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.02.40:660][684]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.02.40:660][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.02.42:857][815]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-22.02.42:885][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-22.02.42:885][815]PIE: New page: PIE session: Level_1 (Nov. 4, 2020, 12:02:42 p.m.)
+[2020.11.04-22.02.42:886][815]LogPlayLevel: Creating play world package: /Game/Assignment/Maps/UEDPIE_0_Level_1
+[2020.11.04-22.02.42:903][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017263s)
+[2020.11.04-22.02.42:904][815]LogAIModule: Creating AISystem for world Level_1
+[2020.11.04-22.02.42:904][815]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CCE775B400), frame # 68815
+[2020.11.04-22.02.42:904][815]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CD24A7FD80), frame # 68815
+[2020.11.04-22.02.42:905][815]LogPlayLevel: PIE: World Init took: (0.001829s)
+[2020.11.04-22.02.42:905][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Maps/Level_1.Level_1 to /Game/Assignment/Maps/UEDPIE_0_Level_1.Level_1 (0.019300s)
+[2020.11.04-22.02.42:981][815]LogUObjectHash: Compacting FUObjectHashTables data took   9.82ms
+[2020.11.04-22.02.42:993][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-22.02.42:993][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-22.02.42:993][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-22.02.42:993][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-22.02.42:993][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-22.02.42:993][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-22.02.42:993][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-22.02.42:993][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-22.02.42:993][815]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-22.02.42:994][815]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-22.02.43:006][815]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-22.02.43:006][815]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-22.02.43:006][815]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.04-22.02.43:007][815]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.04-22.02.43:007][815]LogAudioMixer: Display: 4: BackLeft
+[2020.11.04-22.02.43:007][815]LogAudioMixer: Display: 5: BackRight
+[2020.11.04-22.02.43:007][815]LogAudioMixer: Display: 6: SideLeft
+[2020.11.04-22.02.43:007][815]LogAudioMixer: Display: 7: SideRight
+[2020.11.04-22.02.43:047][815]LogAudioMixer: Display: Using Audio Device Speakers (3- Corsair Gaming H1500 Headset)
+[2020.11.04-22.02.43:047][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-22.02.43:047][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-22.02.43:047][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-22.02.43:048][815]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-22.02.43:061][815]LogInit: FAudioDevice initialized.
+[2020.11.04-22.02.43:072][815]LogLoad: Game class is 'GameModeBase'
+[2020.11.04-22.02.43:077][815]LogWorld: Bringing World /Game/Assignment/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.11.04-17.02.43
+[2020.11.04-22.02.43:077][815]LogWorld: Bringing up level for play took: 0.004328
+[2020.11.04-22.02.43:077][815]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.11.04-22.02.43:080][815]PIE: Server logged in
+[2020.11.04-22.02.43:081][815]PIE: Play in editor total start time 0.197 seconds.
+[2020.11.04-22.02.44:633][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-22.02.44:634][964]LogWorld: BeginTearingDown for /Game/Assignment/Maps/UEDPIE_0_Level_1
+[2020.11.04-22.02.44:634][964]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.02.44:635][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.02.44:642][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-22.02.44:647][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.02.44:689][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-22.02.44:690][964]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CD24A7FD80), frame # 68964
+[2020.11.04-22.02.44:690][964]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CCE775B400), frame # 68964
+[2020.11.04-22.02.44:696][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.11.04-22.02.44:748][965]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.11.04-22.03.02:314][111]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.04-22.03.06:884][433]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.04-22.03.06:894][433]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.04-22.03.07:978][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.11.04-22.03.08:053][511]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1489576F44F8DCAD37094C5A7410DF6CA.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1.umap'
+[2020.11.04-22.03.08:322][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_1_BuiltData" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2020.11.04-22.03.08:628][511]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1_BuiltData65435E1A4E24C0AF94BED79C105861E0.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset'
+[2020.11.04-22.03.08:651][511]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-22.03.08:651][511]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_1.Level_1
+[2020.11.04-22.03.08:651][511]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assignment/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.11.04-22.03.08:989][539]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-22.03.09:021][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-22.03.09:021][539]PIE: New page: PIE session: Level_1 (Nov. 4, 2020, 12:03:09 p.m.)
+[2020.11.04-22.03.09:021][539]LogPlayLevel: Creating play world package: /Game/Assignment/Maps/UEDPIE_0_Level_1
+[2020.11.04-22.03.09:044][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022345s)
+[2020.11.04-22.03.09:045][539]LogAIModule: Creating AISystem for world Level_1
+[2020.11.04-22.03.09:046][539]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CCDBDF6200), frame # 70539
+[2020.11.04-22.03.09:046][539]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CD0016C400), frame # 70539
+[2020.11.04-22.03.09:046][539]LogPlayLevel: PIE: World Init took: (0.002166s)
+[2020.11.04-22.03.09:046][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Maps/Level_1.Level_1 to /Game/Assignment/Maps/UEDPIE_0_Level_1.Level_1 (0.024696s)
+[2020.11.04-22.03.09:084][539]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2020.11.04-22.03.09:086][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-22.03.09:086][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-22.03.09:086][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-22.03.09:086][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-22.03.09:086][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-22.03.09:086][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-22.03.09:086][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-22.03.09:086][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-22.03.09:086][539]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-22.03.09:086][539]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-22.03.09:098][539]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-22.03.09:098][539]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-22.03.09:098][539]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.04-22.03.09:098][539]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.04-22.03.09:098][539]LogAudioMixer: Display: 4: BackLeft
+[2020.11.04-22.03.09:098][539]LogAudioMixer: Display: 5: BackRight
+[2020.11.04-22.03.09:098][539]LogAudioMixer: Display: 6: SideLeft
+[2020.11.04-22.03.09:098][539]LogAudioMixer: Display: 7: SideRight
+[2020.11.04-22.03.09:139][539]LogAudioMixer: Display: Using Audio Device Speakers (3- Corsair Gaming H1500 Headset)
+[2020.11.04-22.03.09:139][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-22.03.09:139][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-22.03.09:139][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-22.03.09:139][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-22.03.09:153][539]LogInit: FAudioDevice initialized.
+[2020.11.04-22.03.09:164][539]LogLoad: Game class is 'My_Muriel_Gamemode_BP_C'
+[2020.11.04-22.03.09:169][539]LogWorld: Bringing World /Game/Assignment/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.11.04-17.03.09
+[2020.11.04-22.03.09:169][539]LogWorld: Bringing up level for play took: 0.004420
+[2020.11.04-22.03.09:169][539]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.11.04-22.03.09:174][539]PIE: Server logged in
+[2020.11.04-22.03.09:175][539]PIE: Play in editor total start time 0.155 seconds.
+[2020.11.04-22.03.13:214][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-22.03.13:214][944]LogWorld: BeginTearingDown for /Game/Assignment/Maps/UEDPIE_0_Level_1
+[2020.11.04-22.03.13:215][944]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.03.13:216][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.03.13:220][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-22.03.13:226][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.03.13:271][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-22.03.13:272][944]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CD0016C400), frame # 70944
+[2020.11.04-22.03.13:272][944]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CCDBDF6200), frame # 70944
+[2020.11.04-22.03.13:276][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.11.04-22.03.13:332][945]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.11.04-22.03.13:970][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.11.04-22.03.14:037][979]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1DDDA12854038D455F98750A527B65CAA.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1.umap'
+[2020.11.04-22.03.14:276][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_1_BuiltData" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2020.11.04-22.03.14:550][979]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1_BuiltData7124793E41E9DEE81986459ECA74724E.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset'
+[2020.11.04-22.03.14:575][979]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-22.03.14:575][979]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_1.Level_1
+[2020.11.04-22.03.14:575][979]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assignment/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.11.04-22.03.42:038][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_CommDevice.BP_CommDevice_C' ref from Metadata '/Game/Assignment/BP_CommDevice.PackageMetaData'
+[2020.11.04-22.03.42:039][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_CommDevice.BP_CommDevice_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_CommDevice.PackageMetaData'
+[2020.11.04-22.03.42:039][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_CommDevice.SKEL_BP_CommDevice_C' ref from Metadata '/Game/Assignment/BP_CommDevice.PackageMetaData'
+[2020.11.04-22.03.42:039][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_CommDevice.SKEL_BP_CommDevice_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_CommDevice.PackageMetaData'
+[2020.11.04-22.03.42:039][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_CommDevice.SKEL_BP_CommDevice_C:UserConstructionScript' ref from Metadata '/Game/Assignment/BP_CommDevice.PackageMetaData'
+[2020.11.04-22.03.42:039][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_CommDevice.BP_CommDevice:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assignment/BP_CommDevice.PackageMetaData'
+[2020.11.04-22.03.42:039][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_CommDevice.BP_CommDevice:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assignment/BP_CommDevice.PackageMetaData'
+[2020.11.04-22.03.42:051][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_FirstAidKit.BP_FirstAidKit_C' ref from Metadata '/Game/Assignment/BP_FirstAidKit.PackageMetaData'
+[2020.11.04-22.03.42:051][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_FirstAidKit.BP_FirstAidKit_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_FirstAidKit.PackageMetaData'
+[2020.11.04-22.03.42:051][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_FirstAidKit.SKEL_BP_FirstAidKit_C' ref from Metadata '/Game/Assignment/BP_FirstAidKit.PackageMetaData'
+[2020.11.04-22.03.42:051][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_FirstAidKit.SKEL_BP_FirstAidKit_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_FirstAidKit.PackageMetaData'
+[2020.11.04-22.03.42:051][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_FirstAidKit.SKEL_BP_FirstAidKit_C:UserConstructionScript' ref from Metadata '/Game/Assignment/BP_FirstAidKit.PackageMetaData'
+[2020.11.04-22.03.42:051][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_FirstAidKit.BP_FirstAidKit:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assignment/BP_FirstAidKit.PackageMetaData'
+[2020.11.04-22.03.42:051][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_FirstAidKit.BP_FirstAidKit:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assignment/BP_FirstAidKit.PackageMetaData'
+[2020.11.04-22.03.42:061][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Laptop_Closed.BP_Laptop_Closed_C' ref from Metadata '/Game/Assignment/BP_Laptop_Closed.PackageMetaData'
+[2020.11.04-22.03.42:061][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Laptop_Closed.BP_Laptop_Closed_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_Laptop_Closed.PackageMetaData'
+[2020.11.04-22.03.42:061][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Laptop_Closed.SKEL_BP_Laptop_Closed_C' ref from Metadata '/Game/Assignment/BP_Laptop_Closed.PackageMetaData'
+[2020.11.04-22.03.42:061][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Laptop_Closed.SKEL_BP_Laptop_Closed_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_Laptop_Closed.PackageMetaData'
+[2020.11.04-22.03.42:061][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Laptop_Closed.SKEL_BP_Laptop_Closed_C:UserConstructionScript' ref from Metadata '/Game/Assignment/BP_Laptop_Closed.PackageMetaData'
+[2020.11.04-22.03.42:061][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Laptop_Closed.BP_Laptop_Closed:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assignment/BP_Laptop_Closed.PackageMetaData'
+[2020.11.04-22.03.42:061][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Laptop_Closed.BP_Laptop_Closed:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assignment/BP_Laptop_Closed.PackageMetaData'
+[2020.11.04-22.03.42:077][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle.BP_MedBottle_C' ref from Metadata '/Game/Assignment/BP_MedBottle.PackageMetaData'
+[2020.11.04-22.03.42:077][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle.BP_MedBottle_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_MedBottle.PackageMetaData'
+[2020.11.04-22.03.42:077][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle.SKEL_BP_MedBottle_C' ref from Metadata '/Game/Assignment/BP_MedBottle.PackageMetaData'
+[2020.11.04-22.03.42:077][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle.SKEL_BP_MedBottle_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_MedBottle.PackageMetaData'
+[2020.11.04-22.03.42:077][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle.SKEL_BP_MedBottle_C:UserConstructionScript' ref from Metadata '/Game/Assignment/BP_MedBottle.PackageMetaData'
+[2020.11.04-22.03.42:078][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle.BP_MedBottle:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assignment/BP_MedBottle.PackageMetaData'
+[2020.11.04-22.03.42:078][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle.BP_MedBottle:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assignment/BP_MedBottle.PackageMetaData'
+[2020.11.04-22.03.42:091][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle_b.BP_MedBottle_b_C' ref from Metadata '/Game/Assignment/BP_MedBottle_b.PackageMetaData'
+[2020.11.04-22.03.42:091][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle_b.BP_MedBottle_b_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_MedBottle_b.PackageMetaData'
+[2020.11.04-22.03.42:091][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle_b.SKEL_BP_MedBottle_b_C' ref from Metadata '/Game/Assignment/BP_MedBottle_b.PackageMetaData'
+[2020.11.04-22.03.42:091][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle_b.SKEL_BP_MedBottle_b_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_MedBottle_b.PackageMetaData'
+[2020.11.04-22.03.42:091][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle_b.SKEL_BP_MedBottle_b_C:UserConstructionScript' ref from Metadata '/Game/Assignment/BP_MedBottle_b.PackageMetaData'
+[2020.11.04-22.03.42:091][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle_b.BP_MedBottle_b:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assignment/BP_MedBottle_b.PackageMetaData'
+[2020.11.04-22.03.42:091][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_MedBottle_b.BP_MedBottle_b:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assignment/BP_MedBottle_b.PackageMetaData'
+[2020.11.04-22.03.42:105][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Screwdriver.BP_Screwdriver_C' ref from Metadata '/Game/Assignment/BP_Screwdriver.PackageMetaData'
+[2020.11.04-22.03.42:105][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Screwdriver.BP_Screwdriver_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_Screwdriver.PackageMetaData'
+[2020.11.04-22.03.42:105][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Screwdriver.SKEL_BP_Screwdriver_C' ref from Metadata '/Game/Assignment/BP_Screwdriver.PackageMetaData'
+[2020.11.04-22.03.42:105][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Screwdriver.SKEL_BP_Screwdriver_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_Screwdriver.PackageMetaData'
+[2020.11.04-22.03.42:105][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Screwdriver.SKEL_BP_Screwdriver_C:UserConstructionScript' ref from Metadata '/Game/Assignment/BP_Screwdriver.PackageMetaData'
+[2020.11.04-22.03.42:105][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Screwdriver.BP_Screwdriver:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assignment/BP_Screwdriver.PackageMetaData'
+[2020.11.04-22.03.42:119][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_SM_Laptop.BP_SM_Laptop_C' ref from Metadata '/Game/Assignment/BP_SM_Laptop.PackageMetaData'
+[2020.11.04-22.03.42:119][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_SM_Laptop.SKEL_BP_SM_Laptop_C' ref from Metadata '/Game/Assignment/BP_SM_Laptop.PackageMetaData'
+[2020.11.04-22.03.42:119][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_SM_Laptop.SKEL_BP_SM_Laptop_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Assignment/BP_SM_Laptop.PackageMetaData'
+[2020.11.04-22.03.42:119][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_SM_Laptop.SKEL_BP_SM_Laptop_C:UserConstructionScript' ref from Metadata '/Game/Assignment/BP_SM_Laptop.PackageMetaData'
+[2020.11.04-22.03.42:119][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_SM_Laptop.BP_SM_Laptop:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assignment/BP_SM_Laptop.PackageMetaData'
+[2020.11.04-22.03.42:131][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Toolbox.BP_Toolbox_C' ref from Metadata '/Game/Assignment/BP_Toolbox.PackageMetaData'
+[2020.11.04-22.03.42:131][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Toolbox.BP_Toolbox_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_Toolbox.PackageMetaData'
+[2020.11.04-22.03.42:131][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Toolbox.SKEL_BP_Toolbox_C' ref from Metadata '/Game/Assignment/BP_Toolbox.PackageMetaData'
+[2020.11.04-22.03.42:131][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Toolbox.SKEL_BP_Toolbox_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assignment/BP_Toolbox.PackageMetaData'
+[2020.11.04-22.03.42:131][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Toolbox.SKEL_BP_Toolbox_C:UserConstructionScript' ref from Metadata '/Game/Assignment/BP_Toolbox.PackageMetaData'
+[2020.11.04-22.03.42:131][478]LogMetaData: Removing '/Game/Assignment/Blueprints/BP_Toolbox.BP_Toolbox:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assignment/BP_Toolbox.PackageMetaData'
+[2020.11.04-22.03.42:202][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Blueprints/BP_CommDevice" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_CommDevice.uasset" SILENT=true
+[2020.11.04-22.03.42:228][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_CommDevice479B2E3F4CDE6506FE3178B1C0E1A609.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_CommDevice.uasset'
+[2020.11.04-22.03.42:498][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_CommDevice" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_CommDevice.uasset" SILENT=true
+[2020.11.04-22.03.42:521][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_CommDeviceBBEECE4C4EA2429F6492438B3CD35E1A.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_CommDevice.uasset'
+[2020.11.04-22.03.42:541][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Blueprints/BP_FirstAidKit" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_FirstAidKit.uasset" SILENT=true
+[2020.11.04-22.03.42:569][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_FirstAidKit3715F48B4E5A65BD166188A931D0DA48.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_FirstAidKit.uasset'
+[2020.11.04-22.03.42:825][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_FirstAidKit" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_FirstAidKit.uasset" SILENT=true
+[2020.11.04-22.03.42:847][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_FirstAidKit65CFA0304084D05589D29BB3436B0641.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_FirstAidKit.uasset'
+[2020.11.04-22.03.42:865][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Blueprints/BP_Laptop_Closed" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_Laptop_Closed.uasset" SILENT=true
+[2020.11.04-22.03.42:891][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_Laptop_ClosedA1B6ED9B4CD1C056A860B19A8181D6F6.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_Laptop_Closed.uasset'
+[2020.11.04-22.03.43:139][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_Laptop_Closed" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_Laptop_Closed.uasset" SILENT=true
+[2020.11.04-22.03.43:169][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_Laptop_Closed61A5E0634FF4E4DA139B1CB5DA957D84.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_Laptop_Closed.uasset'
+[2020.11.04-22.03.43:189][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Blueprints/BP_MedBottle" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_MedBottle.uasset" SILENT=true
+[2020.11.04-22.03.43:219][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_MedBottle4F1C58DA4C654A0A8029489287C8362D.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_MedBottle.uasset'
+[2020.11.04-22.03.43:462][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_MedBottle" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_MedBottle.uasset" SILENT=true
+[2020.11.04-22.03.43:484][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_MedBottle7C29376641887A7F38688C9BFDB83853.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_MedBottle.uasset'
+[2020.11.04-22.03.43:506][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Blueprints/BP_MedBottle_b" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_MedBottle_b.uasset" SILENT=true
+[2020.11.04-22.03.43:531][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_MedBottle_b32FE7DFD40C925A2997C59AF66C38AF4.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_MedBottle_b.uasset'
+[2020.11.04-22.03.43:781][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_MedBottle_b" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_MedBottle_b.uasset" SILENT=true
+[2020.11.04-22.03.43:805][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_MedBottle_bD2A7F9264C4CC5E9392DFC897728CC3A.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_MedBottle_b.uasset'
+[2020.11.04-22.03.43:826][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Blueprints/BP_Screwdriver" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_Screwdriver.uasset" SILENT=true
+[2020.11.04-22.03.43:853][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_Screwdriver0D08ADC04B071AF461A57CB90BBA8734.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_Screwdriver.uasset'
+[2020.11.04-22.03.44:117][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_Screwdriver" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_Screwdriver.uasset" SILENT=true
+[2020.11.04-22.03.44:139][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_Screwdriver460367E447F8B2BA3B6DD385BAA92F74.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_Screwdriver.uasset'
+[2020.11.04-22.03.44:158][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Blueprints/BP_SM_Laptop" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_SM_Laptop.uasset" SILENT=true
+[2020.11.04-22.03.44:186][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_SM_LaptopB6FD43A8412521F3D1F538BD763233A8.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_SM_Laptop.uasset'
+[2020.11.04-22.03.44:431][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_SM_Laptop" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_SM_Laptop.uasset" SILENT=true
+[2020.11.04-22.03.44:458][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_SM_LaptopBD99C0534E9DB52A6B50C884437C84C7.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_SM_Laptop.uasset'
+[2020.11.04-22.03.44:478][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Blueprints/BP_Toolbox" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_Toolbox.uasset" SILENT=true
+[2020.11.04-22.03.44:506][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_Toolbox034D4B1C481D465218B38C8CCC92D463.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/BP_Toolbox.uasset'
+[2020.11.04-22.03.44:749][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/BP_Toolbox" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_Toolbox.uasset" SILENT=true
+[2020.11.04-22.03.44:773][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/BP_Toolbox25CA70DF474685C35576F087679583EA.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/BP_Toolbox.uasset'
+[2020.11.04-22.03.44:816][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/FloorNew_StaticMesh402260D54147DF02934FF992124E68A3.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Blueprints/FloorNew_StaticMesh.uasset'
+[2020.11.04-22.03.45:057][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/FloorNew_StaticMesh" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/FloorNew_StaticMesh.uasset" SILENT=true
+[2020.11.04-22.03.45:077][478]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/FloorNew_StaticMesh267267254824F586150171A818870DB5.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/FloorNew_StaticMesh.uasset'
+[2020.11.04-22.03.48:802][478]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-22.03.48:802][478]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/BP_CommDevice.BP_CommDevice
+[2020.11.04-22.03.48:802][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_CommDevice.BP_CommDevice_C
+[2020.11.04-22.03.48:802][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_CommDevice.BP_CommDevice
+[2020.11.04-22.03.48:802][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_CommDevice.Default__BP_CommDevice_C
+[2020.11.04-22.03.48:802][478]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/BP_FirstAidKit.BP_FirstAidKit
+[2020.11.04-22.03.48:802][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_FirstAidKit.Default__BP_FirstAidKit_C
+[2020.11.04-22.03.48:802][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_FirstAidKit.BP_FirstAidKit_C
+[2020.11.04-22.03.48:802][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_FirstAidKit.BP_FirstAidKit
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/BP_Laptop_Closed.BP_Laptop_Closed
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_Laptop_Closed.BP_Laptop_Closed
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_Laptop_Closed.Default__BP_Laptop_Closed_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_Laptop_Closed.BP_Laptop_Closed_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/BP_MedBottle.BP_MedBottle
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_MedBottle.BP_MedBottle
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_MedBottle.Default__BP_MedBottle_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_MedBottle.BP_MedBottle_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/BP_MedBottle_b.BP_MedBottle_b
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_MedBottle_b.BP_MedBottle_b
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_MedBottle_b.Default__BP_MedBottle_b_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_MedBottle_b.BP_MedBottle_b_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/BP_Screwdriver.BP_Screwdriver
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_Screwdriver.BP_Screwdriver
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_Screwdriver.Default__BP_Screwdriver_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_Screwdriver.BP_Screwdriver_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/BP_SM_Laptop.BP_SM_Laptop
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_SM_Laptop.BP_SM_Laptop
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_SM_Laptop.Default__BP_SM_Laptop_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_SM_Laptop.BP_SM_Laptop_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating Blueprint /Game/Assignment/Blueprints/BP_Toolbox.BP_Toolbox
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_Toolbox.BP_Toolbox
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_Toolbox.Default__BP_Toolbox_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/BP_Toolbox.BP_Toolbox_C
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating StaticMesh /Game/Assignment/Blueprints/FloorNew_StaticMesh.FloorNew_StaticMesh
+[2020.11.04-22.03.48:803][478]LogContentValidation: Display: Validating ObjectRedirector /Game/Assignment/FloorNew_StaticMesh.FloorNew_StaticMesh
+[2020.11.04-22.03.50:683][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.11.04-22.03.50:751][632]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1631F221944A1D05CE19CF892D7C36230.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1.umap'
+[2020.11.04-22.03.51:005][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_1_BuiltData" FILE="../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2020.11.04-22.03.51:295][632]LogSavePackage: Moving '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Saved/Level_1_BuiltDataF754AB6347CF719574599299CFA44772.tmp' to '../../../../../Unreal Projects/Assignment2/GAM537_A1/A1/Content/Assignment/Maps/Level_1_BuiltData.uasset'
+[2020.11.04-22.03.51:315][632]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-22.03.51:315][632]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_1.Level_1
+[2020.11.04-22.03.51:315][632]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assignment/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.11.04-22.03.51:748][674]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-22.03.51:773][674]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.11.04-22.03.51:774][674]LogPlayLevel: [PlayLevel] Compiling Level_1 before play...
+[2020.11.04-22.03.51:799][674]LogPlayLevel: [PlayLevel] Compiling Level_2 before play...
+[2020.11.04-22.03.51:851][674]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.11.04-22.03.51:852][674]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (2 blueprints)
+[2020.11.04-22.03.51:852][674]PIE: New page: PIE session: Level_1 (Nov. 4, 2020, 12:03:51 p.m.)
+[2020.11.04-22.03.51:853][674]LogPlayLevel: Creating play world package: /Game/Assignment/Maps/UEDPIE_0_Level_1
+[2020.11.04-22.03.51:877][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024234s)
+[2020.11.04-22.03.51:878][674]LogAIModule: Creating AISystem for world Level_1
+[2020.11.04-22.03.51:878][674]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CD745C9800), frame # 73674
+[2020.11.04-22.03.51:879][674]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CCF2766840), frame # 73674
+[2020.11.04-22.03.51:879][674]LogPlayLevel: PIE: World Init took: (0.001833s)
+[2020.11.04-22.03.51:879][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Maps/Level_1.Level_1 to /Game/Assignment/Maps/UEDPIE_0_Level_1.Level_1 (0.026307s)
+[2020.11.04-22.03.51:919][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.11.04-22.03.51:920][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-22.03.51:921][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-22.03.51:921][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-22.03.51:921][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-22.03.51:921][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-22.03.51:921][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-22.03.51:921][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-22.03.51:921][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-22.03.51:921][674]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-22.03.51:921][674]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-22.03.51:933][674]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-22.03.51:933][674]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-22.03.51:933][674]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.04-22.03.51:933][674]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.04-22.03.51:933][674]LogAudioMixer: Display: 4: BackLeft
+[2020.11.04-22.03.51:933][674]LogAudioMixer: Display: 5: BackRight
+[2020.11.04-22.03.51:933][674]LogAudioMixer: Display: 6: SideLeft
+[2020.11.04-22.03.51:933][674]LogAudioMixer: Display: 7: SideRight
+[2020.11.04-22.03.51:974][674]LogAudioMixer: Display: Using Audio Device Speakers (3- Corsair Gaming H1500 Headset)
+[2020.11.04-22.03.51:975][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-22.03.51:975][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-22.03.51:975][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-22.03.51:975][674]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-22.03.51:989][674]LogInit: FAudioDevice initialized.
+[2020.11.04-22.03.52:002][674]LogLoad: Game class is 'My_Muriel_Gamemode_BP_C'
+[2020.11.04-22.03.52:008][674]LogWorld: Bringing World /Game/Assignment/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.11.04-17.03.52
+[2020.11.04-22.03.52:008][674]LogWorld: Bringing up level for play took: 0.004827
+[2020.11.04-22.03.52:008][674]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.11.04-22.03.52:013][674]PIE: Server logged in
+[2020.11.04-22.03.52:014][674]PIE: Play in editor total start time 0.242 seconds.
+[2020.11.04-22.04.03:313][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-22.04.03:313][855]LogWorld: BeginTearingDown for /Game/Assignment/Maps/UEDPIE_0_Level_1
+[2020.11.04-22.04.03:314][855]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-22.04.03:314][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.04.03:319][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-22.04.03:325][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-22.04.03:351][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-22.04.03:369][855]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CCF2766840), frame # 74855
+[2020.11.04-22.04.03:369][855]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CD745C9800), frame # 74855
+[2020.11.04-22.04.03:373][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.11.04-22.04.03:430][856]LogPlayLevel: Display: Destroying online subsystem :Context_48
