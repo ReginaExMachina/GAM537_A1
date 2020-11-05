@@ -1,0 +1,1969 @@
+﻿Log file open, 11/05/20 10:48:23
+LogInit: Display: Running engine for game: A1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.651597
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Engine.ini]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Engine.ini]
+[2020.11.05-15.48.26:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Engine.ini]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Engine.ini]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.05-15.48.26:105][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.05-15.48.26:106][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.05-15.48.26:106][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.05-15.48.26:106][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.05-15.48.26:106][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.05-15.48.26:106][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Engine.ini]
+[2020.11.05-15.48.26:106][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Engine.ini]
+[2020.11.05-15.48.26:110][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:110][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.05-15.48.26:110][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.05-15.48.26:110][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:110][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.05-15.48.26:110][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:110][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.05-15.48.26:110][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.05-15.48.26:110][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.05-15.48.26:110][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.05-15.48.26:110][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.05-15.48.26:110][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.05-15.48.26:110][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.05-15.48.26:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.05-15.48.26:112][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:112][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.05-15.48.26:113][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.05-15.48.26:113][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.05-15.48.26:113][  0]LogHAL: Display: Platform has ~ 8 GB [8281792512 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.05-15.48.26:113][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.05-15.48.26:113][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.05-15.48.26:113][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.05-15.48.26:114][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.05-15.48.26:115][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.05-15.48.26:123][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.05-15.48.26:123][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.05-15.48.26:123][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.05-15.48.26:123][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/A2/GAM537_A1/A1/Saved/Config/Windows/Engine.ini]
+[2020.11.05-15.48.26:123][  0]LogInit: Computer: NHLOAN-L-2453
+[2020.11.05-15.48.26:123][  0]LogInit: User: AutoLogon
+[2020.11.05-15.48.26:123][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.11.05-15.48.26:123][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.05-15.48.26:124][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx)
+[2020.11.05-15.48.26:124][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.05-15.48.26:124][  0]LogMemory: Process Physical Memory: 112.72 MB used, 112.72 MB peak
+[2020.11.05-15.48.26:124][  0]LogMemory: Process Virtual Memory: 94.82 MB used, 94.82 MB peak
+[2020.11.05-15.48.26:124][  0]LogMemory: Physical Memory: 2692.50 MB used,  5205.63 MB free, 7898.13 MB total
+[2020.11.05-15.48.26:124][  0]LogMemory: Virtual Memory: 5122.76 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.11.05-15.48.26:154][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.05-15.48.26:734][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.05-15.48.26:738][  0]LogInit: Using OS detected language (en-US).
+[2020.11.05-15.48.26:738][  0]LogInit: Using OS detected locale (en-US).
+[2020.11.05-15.48.26:779][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.05-15.48.27:313][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.05-15.48.27:525][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.05-15.48.27:525][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.05-15.48.31:398][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.05-15.48.31:399][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.05-15.48.31:399][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.05-15.48.31:399][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.05-15.48.31:618][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.11.05-15.48.31:618][  0]LogD3D11RHI:       128/0/3949 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.11.05-15.48.31:623][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.05-15.48.31:623][  0]LogD3D11RHI:       0/0/3949 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.05-15.48.31:623][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.05-15.48.31:630][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.05-15.48.31:630][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.05-15.48.31:630][  0]LogWindows: EnumDisplayDevices:
+[2020.11.05-15.48.31:630][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.11.05-15.48.31:632][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.11.05-15.48.31:633][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.11.05-15.48.31:634][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.11.05-15.48.31:634][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2020.11.05-15.48.31:634][  0]LogD3D11RHI:   Driver Version: 27.20.100.7990 (internal:27.20.100.7990, unified:27.20.100.7990)
+[2020.11.05-15.48.31:634][  0]LogD3D11RHI:      Driver Date: 6-5-2020
+[2020.11.05-15.48.31:634][  0]LogRHI: Texture pool is 1471 MB (70% of 2102 MB)
+[2020.11.05-15.48.32:065][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.11.05-15.48.32:067][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.11.05-15.48.32:067][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.05-15.48.32:067][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.05-15.48.32:077][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.11.05-15.48.35:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.05-15.48.35:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.05-15.48.35:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.05-15.48.35:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.05-15.48.35:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.05-15.48.35:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.05-15.48.35:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.05-15.48.35:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.05-15.48.35:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.05-15.48.35:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.05-15.48.35:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.05-15.48.36:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.05-15.48.36:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.05-15.48.36:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.05-15.48.36:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.05-15.48.36:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.05-15.48.36:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.05-15.48.36:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.05-15.48.36:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.05-15.48.36:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.05-15.48.36:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.05-15.48.36:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.05-15.48.36:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.05-15.48.36:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.05-15.48.36:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.05-15.48.36:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.05-15.48.36:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.05-15.48.36:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.05-15.48.36:568][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.05-15.48.36:681][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.05-15.48.37:450][  0]LogShaderCompilers: Guid format shader working directory is 32 characters bigger than the processId version (E:/A2/GAM537_A1/A1/Intermediate/Shaders/WorkingDirectory/3648/).
+[2020.11.05-15.48.37:450][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AutoLogon/AppData/Local/Temp/UnrealShaderWorkingDir/D6B1BC3F4E9E628B57A945AE19B700A1/'.
+[2020.11.05-15.48.37:452][  0]LogXGEController: Cleaning working directory: C:/Users/AutoLogon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.05-15.48.37:453][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.05-15.48.37:454][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.05-15.48.37:454][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.05-15.48.41:627][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.05-15.48.41:887][  0]LogDerivedDataCache: Loaded boot cache 0.26s 76MB C:/Users/AutoLogon/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.05-15.48.41:887][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/AutoLogon/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.05-15.48.41:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/A2/GAM537_A1/A1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.05-15.48.41:887][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.05-15.48.41:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/A2/GAM537_A1/A1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.05-15.48.41:887][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.05-15.48.41:910][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.05-15.48.41:910][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.05-15.48.41:910][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.05-15.48.41:913][  0]LogDerivedDataCache: Using Local data cache path C:/Users/AutoLogon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.05-15.48.41:913][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.05-15.48.41:913][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.05-15.48.42:001][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.05-15.48.42:021][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.05-15.48.42:252][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2020.11.05-15.48.42:750][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.05-15.48.43:522][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.05-15.48.43:522][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.05-15.48.43:522][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.05-15.48.43:522][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.05-15.48.43:522][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.05-15.48.43:596][  0]LogNetVersion: A1 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 757551055)
+[2020.11.05-15.48.46:985][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000023135BC2F00), frame # 0
+[2020.11.05-15.48.46:985][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023135B5EAC0), frame # 0
+[2020.11.05-15.48.46:988][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023135BB5C00), frame # 0
+[2020.11.05-15.48.47:787][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.775944 seconds
+[2020.11.05-15.48.47:796][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.05-15.48.47:796][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.05-15.48.47:796][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.05-15.48.51:106][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.05-15.48.51:146][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.05-15.48.51:906][  0]SourceControl: Source control is disabled
+[2020.11.05-15.48.51:907][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.51:907][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.11.05-15.48.51:907][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.51:907][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.11.05-15.48.51:907][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.51:907][  0]LogWindows: Warning: URL: C:\Users\AutoLogon\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.11.05-15.48.51:908][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.51:908][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.11.05-15.48.51:908][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.51:908][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.11.05-15.48.51:908][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.51:908][  0]LogWindows: Warning: URL: C:\Users\AutoLogon\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.11.05-15.48.51:908][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.51:908][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.11.05-15.48.52:024][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:024][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.11.05-15.48.52:024][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:024][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.11.05-15.48.52:025][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:025][  0]LogWindows: Warning: URL: C:\Users\AutoLogon\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.11.05-15.48.52:025][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:025][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.11.05-15.48.52:025][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:025][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.11.05-15.48.52:026][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:026][  0]LogWindows: Warning: URL: C:\Users\AutoLogon\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.11.05-15.48.52:026][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:026][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.11.05-15.48.52:078][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:078][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.11.05-15.48.52:079][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:079][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.11.05-15.48.52:079][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:079][  0]LogWindows: Warning: URL: C:\Users\AutoLogon\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.11.05-15.48.52:079][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:079][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.11.05-15.48.52:080][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:080][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.11.05-15.48.52:080][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:080][  0]LogWindows: Warning: URL: C:\Users\AutoLogon\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.11.05-15.48.52:080][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:080][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.11.05-15.48.52:149][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:149][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.11.05-15.48.52:149][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:149][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.11.05-15.48.52:150][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:150][  0]LogWindows: Warning: URL: C:\Users\AutoLogon\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.11.05-15.48.52:150][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:150][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.11.05-15.48.52:150][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:150][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.11.05-15.48.52:150][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:150][  0]LogWindows: Warning: URL: C:\Users\AutoLogon\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.11.05-15.48.52:151][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.48.52:151][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.11.05-15.48.52:235][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.05-15.48.52:236][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.05-15.48.54:580][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.05-15.48.54:750][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.05-15.48.54:750][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.05-15.48.55:083][  0]LogOcInput: OculusInput pre-init called
+[2020.11.05-15.48.55:168][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.05-15.48.55:169][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.05-15.48.55:491][  0]LogEngine: Initializing Engine...
+[2020.11.05-15.48.55:494][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.05-15.48.55:494][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.05-15.48.55:496][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.05-15.48.55:907][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.05-15.48.55:953][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.05-15.48.55:953][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023138163C00), frame # 0
+[2020.11.05-15.48.55:953][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023138193380), frame # 0
+[2020.11.05-15.48.55:983][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-15.48.55:983][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-15.48.55:983][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-15.48.55:983][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-15.48.55:983][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-15.48.55:983][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-15.48.55:983][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-15.48.55:983][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-15.48.55:983][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-15.48.55:983][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-15.48.56:063][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-15.48.56:063][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-15.48.57:355][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (3- Realtek Audio)
+[2020.11.05-15.48.57:356][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-15.48.57:380][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-15.48.57:380][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-15.48.57:381][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-15.48.57:383][  0]LogInit: FAudioDevice initialized.
+[2020.11.05-15.48.57:383][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.05-15.48.57:486][  0]LogDerivedDataCache: Saved boot cache 0.10s 76MB C:/Users/AutoLogon/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.05-15.48.57:490][  0]LogInit: Texture streaming: Enabled
+[2020.11.05-15.48.57:617][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.05-15.48.57:617][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={2138708F-4D83-B7E9-63E1-83A75D24CB30}
+[2020.11.05-15.48.57:617][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.05-15.48.57:622][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.05-15.48.58:363][  0]LogInit: Transaction tracking system initialized
+[2020.11.05-15.48.58:610][  0]BlueprintLog: New page: Editor Load
+[2020.11.05-15.48.59:502][  0]LocalizationService: Localization service is disabled
+[2020.11.05-15.49.00:326][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.05-15.49.00:327][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.05-15.49.00:761][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.05-15.49.00:761][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.05-15.49.00:835][  0]LogFileCache: Scanning file cache for directory 'E:/A2/GAM537_A1/A1/Content/' took 0.03s
+[2020.11.05-15.49.02:699][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.49.02:699][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.11.05-15.49.02:699][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.49.02:699][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.11.05-15.49.02:700][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.49.02:700][  0]LogWindows: Warning: URL: C:\Users\AutoLogon\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.11.05-15.49.02:700][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.49.02:700][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.11.05-15.49.02:700][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.49.02:700][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.11.05-15.49.02:700][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.49.02:700][  0]LogWindows: Warning: URL: C:\Users\AutoLogon\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.11.05-15.49.02:701][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.11.05-15.49.02:701][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.11.05-15.49.02:701][  0]LogUnrealEdMisc: Loading editor; pre map load, took 48.379
+[2020.11.05-15.49.02:701][  0]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/ThirdPersonBP/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-15.49.02:705][  0]LightingResults: New page: Lighting Build
+[2020.11.05-15.49.02:706][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-15.49.02:706][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-15.49.02:706][  0]MapCheck: New page: Map Check
+[2020.11.05-15.49.02:706][  0]LightingResults: New page: Lighting Build
+[2020.11.05-15.49.02:720][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023138163C00), frame # 0
+[2020.11.05-15.49.02:720][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023138193380), frame # 0
+[2020.11.05-15.49.02:721][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.11.05-15.49.09:732][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-15.49.09:732][  0]LogAIModule: Creating AISystem for world Level_1
+[2020.11.05-15.49.09:732][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023144D68A00), frame # 0
+[2020.11.05-15.49.09:732][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023144D3F740), frame # 0
+[2020.11.05-15.49.09:878][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.11.05-15.49.09:879][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-15.49.09:879][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2020.11.05-15.49.09:879][  0]LogFileHelpers: Loading map 'Level_1' took 7.178
+[2020.11.05-15.49.09:881][  0]LogUnrealEdMisc: Total Editor Startup Time, took 55.559
+[2020.11.05-15.49.10:136][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-15.49.10:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-15.49.10:162][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-15.49.10:173][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-15.49.10:217][  0]LogCollectionManager: Loaded 0 collections in 0.003380 seconds
+[2020.11.05-15.49.10:243][  0]LogFileCache: Scanning file cache for directory 'E:/A2/GAM537_A1/A1/Saved/Collections/' took 0.00s
+[2020.11.05-15.49.10:243][  0]LogFileCache: Scanning file cache for directory 'E:/A2/GAM537_A1/A1/Content/Developers/AutoLogon/Collections/' took 0.00s
+[2020.11.05-15.49.10:243][  0]LogFileCache: Scanning file cache for directory 'E:/A2/GAM537_A1/A1/Content/Collections/' took 0.00s
+[2020.11.05-15.49.10:243][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 3427 classes and 821 folders.
+[2020.11.05-15.49.10:247][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.05-15.49.10:749][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.05-15.49.10:751][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.11.05-15.49.10:959][  0]LogSlate: Took 0.013296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.05-15.49.10:973][  0]LogSlate: Took 0.011697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.05-15.49.10:992][  0]LogSlate: Took 0.011590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.05-15.49.11:161][  0]LogRenderer: Reallocating scene render targets to support 748x372 Format 10 NumSamples 1 (Frame:1).
+[2020.11.05-15.49.11:843][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.05-15.49.11:843][  0]LogLoad: (Engine Initialization) Total time: 57.52 seconds
+[2020.11.05-15.49.11:843][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.05-15.49.11:926][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.05-15.49.11:953][  0]LogSlate: Took 0.011153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.05-15.49.12:524][  2]LogAssetRegistry: Asset discovery search completed in 30.2733 seconds
+[2020.11.05-15.49.12:534][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2020.11.05-15.49.55:223][308]LogSlate: Window 'New Level' being destroyed
+[2020.11.05-15.49.55:230][308]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-15.49.55:252][308]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.05-15.49.55:337][308]LightingResults: New page: Lighting Build
+[2020.11.05-15.49.55:337][308]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.11.05-15.49.55:343][308]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-15.49.55:344][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-15.49.55:344][308]MapCheck: New page: Map Check
+[2020.11.05-15.49.55:344][308]LightingResults: New page: Lighting Build
+[2020.11.05-15.49.55:362][308]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023144D68A00), frame # 2308
+[2020.11.05-15.49.55:362][308]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023144D3F740), frame # 2308
+[2020.11.05-15.49.55:363][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.11.05-15.49.55:410][308]LogAIModule: Creating AISystem for world Untitled_1
+[2020.11.05-15.49.55:410][308]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002312AA6EA00), frame # 2308
+[2020.11.05-15.49.55:410][308]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023144D4F600), frame # 2308
+[2020.11.05-15.49.55:531][308]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-15.49.55:549][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.11.05-15.49.55:560][308]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-15.49.55:561][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2020.11.05-15.49.55:561][308]LogFileHelpers: Loading map 'Template_Default' took 0.330
+[2020.11.05-16.01.03:074][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.05-16.01.05:499][477]Cmd: EDIT COPY
+[2020.11.05-16.01.06:121][512]Cmd: EDIT PASTE
+[2020.11.05-16.01.23:669][978]LogSlate: Window 'Save Level As' being destroyed
+[2020.11.05-16.01.23:843][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.01.23:899][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.11.05-16.01.23:939][978]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_37F8BBA1D420D79253EB421ABCEFD7E1B.tmp' to 'E:/A2/GAM537_A1/A1/Content/Maps/Level_3.umap'
+[2020.11.05-16.01.24:183][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_3_BuiltData" FILE="E:/A2/GAM537_A1/A1/Content/Maps/Level_3_BuiltData.uasset" SILENT=true
+[2020.11.05-16.01.24:259][978]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3_BuiltData0E063D504CA2B97E2C24528E2B728F66.tmp' to 'E:/A2/GAM537_A1/A1/Content/Maps/Level_3_BuiltData.uasset'
+[2020.11.05-16.01.24:405][978]LogFileHelpers: Saving map 'Level_3' took 0.717
+[2020.11.05-16.01.24:427][978]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.05-16.01.24:427][978]LogContentValidation: Display: Validating World /Game/Maps/Level_3.Level_3
+[2020.11.05-16.01.24:428][978]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_3_BuiltData.Level_3_BuiltData
+[2020.11.05-16.02.04:526][345]LogTexture: Display: Building textures: T_Floor_B_normals (BC5, 4096X4096)
+[2020.11.05-16.02.04:526][345]LogTexture: Display: Building textures: T_Floor_B_M (AutoDXT, 4096X4096)
+[2020.11.05-16.02.04:526][345]LogTexture: Display: Building textures: T_Floor_B_diff (AutoDXT, 4096X4096)
+[2020.11.05-16.02.04:526][345]LogTexture: Display: Building textures: T_Base_Dirt_2 (AutoDXT, 4096X4096)
+[2020.11.05-16.02.04:526][345]LogMaterial: Display: Missing cached shader map for material M_Base_Tile_Scr, compiling. 
+[2020.11.05-16.02.10:075][345]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.11.05-16.02.10:075][345]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.11.05-16.02.10:075][345]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.11.05-16.02.10:075][345]LogTexture: Display: Building textures: T_Trims_C_normals (BC5, 4096X4096)
+[2020.11.05-16.02.10:075][345]LogTexture: Display: Building textures: T_Lights_EM (AutoDXT, 1024X1024)
+[2020.11.05-16.02.10:077][345]LogTexture: Display: Building textures: T_Trim_C_diffuse (AutoDXT, 4096X4096)
+[2020.11.05-16.02.19:018][345]LogTexture: Display: Building textures: T_Trim_EdgeMask (AutoDXT, 4096X4096)
+[2020.11.05-16.02.19:018][345]LogTexture: Display: Building textures: T_Crate_A_N_normals (BC5, 2048X2048)
+[2020.11.05-16.02.19:018][345]LogTexture: Display: Building textures: T_Base (AutoDXT, 4096X4096)
+[2020.11.05-16.02.40:634][345]LogTexture: Display: Building textures: T_Crate_A_M (AutoDXT, 2048X2048)
+[2020.11.05-16.02.40:634][345]LogTexture: Display: Building textures: T_Crate_A_Diff (AutoDXT, 2048X2048)
+[2020.11.05-16.02.40:634][345]LogTexture: Display: Building textures: T_Ceiling_A_Buffer_N_normals (BC5, 4096X4096)
+[2020.11.05-16.02.40:634][345]LogTexture: Display: Building textures: T_Ceiling_A_Buffer_M (AutoDXT, 4096X4096)
+[2020.11.05-16.02.40:634][345]LogTexture: Display: Building textures: T_Ceiling_A_Buffer_Diff (AutoDXT, 4096X4096)
+[2020.11.05-16.02.40:634][345]LogMaterial: Display: Missing cached shader map for material M_Base_Trim, compiling. 
+[2020.11.05-16.02.41:151][345]LogMaterial: Display: Missing cached shader map for material M_Lights, compiling. 
+[2020.11.05-16.02.41:192][345]LogMaterial: Display: Missing cached shader map for material M_Base_SolidLight, compiling. 
+[2020.11.05-16.02.42:950][345]LogTexture: Display: Building textures: T_Terminal_UI_Trim_Blur (AutoDXT, 1024X1024)
+[2020.11.05-16.02.42:950][345]LogTexture: Display: Building textures: T_Terminal_UI_Trim (AutoDXT, 1024X1024)
+[2020.11.05-16.02.42:950][345]LogStaticMesh: Building static mesh SM_Terminal_A...
+[2020.11.05-16.02.44:481][345]LogTexture: Display: Building textures: T_Terminal_UI_Blur (AutoDXT, 4096X4096)
+[2020.11.05-16.02.44:481][345]LogStaticMesh: Built static mesh [1.53s] /Game/StarterBundle/ModularSci_Comm/Meshes/SM_Terminal_A.SM_Terminal_A
+[2020.11.05-16.02.45:150][345]LogStaticMesh: Building static mesh SM_EnergyCore_A...
+[2020.11.05-16.02.45:578][345]LogStaticMesh: Built static mesh [0.43s] /Game/StarterBundle/ModularScifiHallways/Meshes/SM_EnergyCore_A.SM_EnergyCore_A
+[2020.11.05-16.02.45:722][345]LogMaterial: Display: Missing cached shader map for material M_Base_2C, compiling. 
+[2020.11.05-16.02.45:832][345]LogStaticMesh: Building static mesh SM_Crate_A...
+[2020.11.05-16.02.45:891][345]LogTexture: Display: Building textures: T_Terminal_UI (AutoDXT, 4096X4096)
+[2020.11.05-16.02.46:044][345]LogStaticMesh: Built static mesh [0.21s] /Game/StarterBundle/ModularScifiHallways/Meshes/SM_Crate_A.SM_Crate_A
+[2020.11.05-16.02.49:283][345]LogTexture: Display: Building textures: T_Pipes_A_N_normals (BC5, 2048X2048)
+[2020.11.05-16.02.49:283][345]LogTexture: Display: Building textures: T_EnergyCore_A_N_normals (BC5, 2048X2048)
+[2020.11.05-16.02.49:283][345]LogStaticMesh: Building static mesh SM_Terminal_A_UI...
+[2020.11.05-16.02.49:524][345]LogStaticMesh: Built static mesh [0.24s] /Game/StarterBundle/ModularSci_Comm/Meshes/SM_Terminal_A_UI.SM_Terminal_A_UI
+[2020.11.05-16.02.49:819][345]LogTexture: Display: Building textures: T_EnergyCore_EM (AutoDXT, 512X512)
+[2020.11.05-16.02.50:541][345]LogTexture: Display: Building textures: T_EnergyCore_A_M (AutoDXT, 2048X2048)
+[2020.11.05-16.02.50:541][345]LogMaterial: Display: Missing cached shader map for material M_EnergyEmissive, compiling. 
+[2020.11.05-16.03.05:242][345]LogTexture: Display: Building textures: T_Pipes_A_M (AutoDXT, 2048X2048)
+[2020.11.05-16.03.05:242][345]LogTexture: Display: Building textures: T_EnergyCore_A_Diff (AutoDXT, 2048X2048)
+[2020.11.05-16.03.05:243][345]LogTexture: Display: Building textures: T_Pipes_A_Diff (AutoDXT, 2048X2048)
+[2020.11.05-16.03.05:243][345]LogTexture: Display: Building textures: T_MedBottle_N_normals (BC5, 4096X4096)
+[2020.11.05-16.03.05:243][345]LogTexture: Display: Building textures: T_MedBottle_M (AutoDXT, 4096X4096)
+[2020.11.05-16.03.05:243][345]LogTexture: Display: Building textures: T_FirstAidKit_M (AutoDXT, 4096X4096)
+[2020.11.05-16.03.05:243][345]LogTexture: Display: Building textures: T_FirstAidKit_N_normals (BC5, 1024X1024)
+[2020.11.05-16.03.05:243][345]LogTexture: Display: Building textures: T_OxygenTank_Rough (AutoDXT, 2048X2048)
+[2020.11.05-16.03.05:243][345]LogStaticMesh: Building static mesh SM_MedBottle_b...
+[2020.11.05-16.03.05:399][345]LogStaticMesh: Built static mesh [0.16s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_MedBottle_b.SM_MedBottle_b
+[2020.11.05-16.03.05:429][345]LogMaterial: Display: Missing cached shader map for material M_SolidColor_Base, compiling. 
+[2020.11.05-16.03.05:827][345]LogTexture: Display: Building textures: T_OxygenTank_M (AutoDXT, 4096X4096)
+[2020.11.05-16.03.10:871][345]LogTexture: Display: Building textures: T_OxygenTank_normals (BC5, 4096X4096)
+[2020.11.05-16.03.10:871][345]LogTexture: Display: Building textures: T_OxygenTank_Diff (AutoDXT, 4096X4096)
+[2020.11.05-16.03.27:735][345]LogTexture: Display: Building textures: T_FirstAidKit_Diff (AutoDXT, 4096X4096)
+[2020.11.05-16.03.27:735][345]LogTexture: Display: Building textures: T_MedBottle_b_N_normals (BC5, 4096X4096)
+[2020.11.05-16.03.27:735][345]LogTexture: Display: Building textures: T_MedBottle_b_M (AutoDXT, 4096X4096)
+[2020.11.05-16.03.27:735][345]LogTexture: Display: Building textures: T_MedBottle_b_Diff (AutoDXT, 4096X4096)
+[2020.11.05-16.03.27:735][345]LogTexture: Display: Building textures: T_MedBottle_Diff (AutoDXT, 4096X4096)
+[2020.11.05-16.03.27:735][345]LogStaticMesh: Building static mesh SM_OxygenTank...
+[2020.11.05-16.03.27:935][345]LogStaticMesh: Built static mesh [0.20s] /Game/ModSci_EngiProps/Meshes/SM_OxygenTank.SM_OxygenTank
+[2020.11.05-16.03.28:108][345]LogStaticMesh: Building static mesh SM_FirstAidKit...
+[2020.11.05-16.03.28:490][345]LogStaticMesh: Built static mesh [0.38s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_FirstAidKit.SM_FirstAidKit
+[2020.11.05-16.03.39:027][345]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 98
+[2020.11.05-16.03.39:087][345]LogStaticMesh: Building static mesh SM_MedBottle...
+[2020.11.05-16.03.39:228][345]LogStaticMesh: Built static mesh [0.14s] /Game/StarterBundle/ModularScifiProps/Meshes/SM_MedBottle.SM_MedBottle
+[2020.11.05-16.03.39:792][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.11.05-16.03.43:753][531]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 88
+[2020.11.05-16.03.45:518][633]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 78
+[2020.11.05-16.04.00:083][480]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 68
+[2020.11.05-16.04.03:308][670]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2020.11.05-16.04.05:207][781]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2020.11.05-16.04.16:061][414]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.11.05-16.04.21:247][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.11.05-16.04.31:823][333]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.11.05-16.04.35:072][524]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.11.05-16.04.40:361][830]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.11.05-16.04.43:958][ 39]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.11.05-16.04.45:418][125]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.11.05-16.04.47:155][227]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.11.05-16.06.17:673][568]Cmd: EDIT COPY
+[2020.11.05-16.06.18:215][599]Cmd: EDIT PASTE
+[2020.11.05-16.06.50:581][393]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.11.05-16.06.57:893][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2020.11.05-16.06.58:747][876]Cmd: EDIT COPY
+[2020.11.05-16.06.58:925][886]Cmd: EDIT PASTE
+[2020.11.05-16.07.08:404][362]Cmd: EDIT COPY
+[2020.11.05-16.07.08:563][371]Cmd: EDIT PASTE
+[2020.11.05-16.07.19:675][923]Cmd: EDIT COPY
+[2020.11.05-16.07.19:816][931]Cmd: EDIT PASTE
+[2020.11.05-16.07.27:561][340]LogEditorViewport: Clicking Background
+[2020.11.05-16.07.28:085][370]LogEditorViewport: Clicking Background
+[2020.11.05-16.07.29:600][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.07.29:654][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.11.05-16.07.29:764][459]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3C315883D488363F531C0678EE627407B.tmp' to 'E:/A2/GAM537_A1/A1/Content/Maps/Level_3.umap'
+[2020.11.05-16.07.29:961][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_3_BuiltData" FILE="E:/A2/GAM537_A1/A1/Content/Maps/Level_3_BuiltData.uasset" SILENT=true
+[2020.11.05-16.07.30:104][459]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3_BuiltDataD2BDAFFA4AEB47367BBFAFBAA3A01935.tmp' to 'E:/A2/GAM537_A1/A1/Content/Maps/Level_3_BuiltData.uasset'
+[2020.11.05-16.07.30:128][459]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.05-16.07.30:128][459]LogContentValidation: Display: Validating World /Game/Maps/Level_3.Level_3
+[2020.11.05-16.07.30:128][459]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_3_BuiltData.Level_3_BuiltData
+[2020.11.05-16.12.37:706][909]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_2.Level_2
+[2020.11.05-16.12.37:721][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.11.05-16.12.39:654][909]LogSlate: Window 'Save Content' being destroyed
+[2020.11.05-16.12.39:679][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.12.39:850][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.11.05-16.12.40:115][909]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3E185CE6646CE07F8D439D5A812123E1F.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.12.40:312][909]LogFileHelpers: Saving map 'Level_3' took 0.634
+[2020.11.05-16.12.40:312][909]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.12.40:312][909]LightingResults: New page: Lighting Build
+[2020.11.05-16.12.40:313][909]LoadErrors: New page: Loading map: Level_2.umap
+[2020.11.05-16.12.40:318][909]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.12.40:319][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.12.40:319][909]MapCheck: New page: Map Check
+[2020.11.05-16.12.40:319][909]LightingResults: New page: Lighting Build
+[2020.11.05-16.12.40:349][909]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023144D4F600), frame # 74909
+[2020.11.05-16.12.40:349][909]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002312AA6EA00), frame # 74909
+[2020.11.05-16.12.40:351][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.11.05-16.12.40:368][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.05-16.12.40:387][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.11.05-16.12.40:630][909]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.12.40:630][909]LogAIModule: Creating AISystem for world Level_2
+[2020.11.05-16.12.40:630][909]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023172623800), frame # 74909
+[2020.11.05-16.12.40:630][909]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023144D4D940), frame # 74909
+[2020.11.05-16.12.40:653][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.11.05-16.12.40:707][909]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.12.40:707][909]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
+[2020.11.05-16.12.40:708][909]LogFileHelpers: Loading map 'Level_2' took 0.396
+[2020.11.05-16.12.40:806][909]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.12.40:806][909]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.12.56:674][813]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.12.56:690][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.05-16.12.56:692][813]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.12.56:692][813]LightingResults: New page: Lighting Build
+[2020.11.05-16.12.56:692][813]LoadErrors: New page: Loading map: Level_3.umap
+[2020.11.05-16.12.56:726][813]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.12.56:726][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.12.56:726][813]MapCheck: New page: Map Check
+[2020.11.05-16.12.56:726][813]LightingResults: New page: Lighting Build
+[2020.11.05-16.12.56:743][813]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023144D4D940), frame # 75813
+[2020.11.05-16.12.56:743][813]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023172623800), frame # 75813
+[2020.11.05-16.12.56:745][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.11.05-16.12.56:946][813]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.12.56:946][813]LogAIModule: Creating AISystem for world Level_3
+[2020.11.05-16.12.56:946][813]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002315FC39600), frame # 75813
+[2020.11.05-16.12.56:946][813]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002316D93E700), frame # 75813
+[2020.11.05-16.12.56:967][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.11.05-16.12.57:045][813]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.12.57:045][813]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2020.11.05-16.12.57:045][813]LogFileHelpers: Loading map 'Level_3' took 0.354
+[2020.11.05-16.13.06:991][347]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.13.07:004][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.11.05-16.13.07:006][347]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.13.07:006][347]LightingResults: New page: Lighting Build
+[2020.11.05-16.13.07:006][347]LoadErrors: New page: Loading map: Level_3.umap
+[2020.11.05-16.13.07:009][347]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.13.07:009][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.13.07:009][347]MapCheck: New page: Map Check
+[2020.11.05-16.13.07:009][347]LightingResults: New page: Lighting Build
+[2020.11.05-16.13.07:026][347]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002316D93E700), frame # 76347
+[2020.11.05-16.13.07:026][347]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002315FC39600), frame # 76347
+[2020.11.05-16.13.07:028][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.11.05-16.13.07:065][347]LogAIModule: Creating AISystem for world Level_3
+[2020.11.05-16.13.07:065][347]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002315FBC8600), frame # 76347
+[2020.11.05-16.13.07:065][347]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002318867E980), frame # 76347
+[2020.11.05-16.13.07:263][347]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.13.07:285][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.11.05-16.13.07:364][347]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.13.07:364][347]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2020.11.05-16.13.07:364][347]LogFileHelpers: Loading map 'Level_3' took 0.357
+[2020.11.05-16.13.19:825][ 61]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.13.19:839][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.11.05-16.13.19:841][ 61]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.13.19:841][ 61]LightingResults: New page: Lighting Build
+[2020.11.05-16.13.19:841][ 61]LoadErrors: New page: Loading map: Level_3.umap
+[2020.11.05-16.13.19:843][ 61]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.13.19:843][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.13.19:843][ 61]MapCheck: New page: Map Check
+[2020.11.05-16.13.19:843][ 61]LightingResults: New page: Lighting Build
+[2020.11.05-16.13.19:857][ 61]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002318867E980), frame # 77061
+[2020.11.05-16.13.19:857][ 61]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002315FBC8600), frame # 77061
+[2020.11.05-16.13.19:859][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.11.05-16.13.19:896][ 61]LogAIModule: Creating AISystem for world Level_3
+[2020.11.05-16.13.19:896][ 61]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002315FBCA800), frame # 77061
+[2020.11.05-16.13.19:896][ 61]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002316D93D6C0), frame # 77061
+[2020.11.05-16.13.20:094][ 61]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.13.20:119][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.11.05-16.13.20:192][ 61]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.13.20:192][ 61]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2020.11.05-16.13.20:192][ 61]LogFileHelpers: Loading map 'Level_3' took 0.351
+[2020.11.05-16.13.23:721][244]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_2.Level_2
+[2020.11.05-16.13.23:747][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.11.05-16.13.23:748][244]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.13.23:748][244]LightingResults: New page: Lighting Build
+[2020.11.05-16.13.23:748][244]LoadErrors: New page: Loading map: Level_2.umap
+[2020.11.05-16.13.23:751][244]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.13.23:751][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.13.23:751][244]MapCheck: New page: Map Check
+[2020.11.05-16.13.23:751][244]LightingResults: New page: Lighting Build
+[2020.11.05-16.13.23:766][244]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002316D93D6C0), frame # 77244
+[2020.11.05-16.13.23:766][244]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002315FBCA800), frame # 77244
+[2020.11.05-16.13.23:768][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.05-16.13.23:986][244]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.13.23:987][244]LogAIModule: Creating AISystem for world Level_2
+[2020.11.05-16.13.23:987][244]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002316ECA6000), frame # 77244
+[2020.11.05-16.13.23:987][244]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002314CB47100), frame # 77244
+[2020.11.05-16.13.24:008][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.11.05-16.13.24:062][244]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.13.24:062][244]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2020.11.05-16.13.24:062][244]LogFileHelpers: Loading map 'Level_2' took 0.314
+[2020.11.05-16.13.26:820][380]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_1.Level_1
+[2020.11.05-16.13.26:839][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.11.05-16.13.26:844][380]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.13.26:844][380]LightingResults: New page: Lighting Build
+[2020.11.05-16.13.26:844][380]LoadErrors: New page: Loading map: Level_1.umap
+[2020.11.05-16.13.26:847][380]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.13.26:848][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.13.26:848][380]MapCheck: New page: Map Check
+[2020.11.05-16.13.26:848][380]LightingResults: New page: Lighting Build
+[2020.11.05-16.13.26:863][380]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002314CB47100), frame # 77380
+[2020.11.05-16.13.26:863][380]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002316ECA6000), frame # 77380
+[2020.11.05-16.13.26:865][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.11.05-16.13.27:082][380]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.13.27:082][380]LogAIModule: Creating AISystem for world Level_1
+[2020.11.05-16.13.27:082][380]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002315FCC9C00), frame # 77380
+[2020.11.05-16.13.27:082][380]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002318A7ECA40), frame # 77380
+[2020.11.05-16.13.27:102][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.11.05-16.13.27:234][380]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.13.27:234][380]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
+[2020.11.05-16.13.27:234][380]LogFileHelpers: Loading map 'Level_1' took 0.391
+[2020.11.05-16.13.29:508][490]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.13.29:522][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.11.05-16.13.29:527][490]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.13.29:528][490]LightingResults: New page: Lighting Build
+[2020.11.05-16.13.29:528][490]LoadErrors: New page: Loading map: Level_3.umap
+[2020.11.05-16.13.29:530][490]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.13.29:531][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.13.29:531][490]MapCheck: New page: Map Check
+[2020.11.05-16.13.29:531][490]LightingResults: New page: Lighting Build
+[2020.11.05-16.13.29:547][490]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002318A7ECA40), frame # 77490
+[2020.11.05-16.13.29:547][490]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002315FCC9C00), frame # 77490
+[2020.11.05-16.13.29:549][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.11.05-16.13.29:749][490]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.13.29:749][490]LogAIModule: Creating AISystem for world Level_3
+[2020.11.05-16.13.29:749][490]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002316CA41C00), frame # 77490
+[2020.11.05-16.13.29:749][490]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002316DDD11C0), frame # 77490
+[2020.11.05-16.13.29:769][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.11.05-16.13.29:823][490]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.13.29:823][490]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2020.11.05-16.13.29:823][490]LogFileHelpers: Loading map 'Level_3' took 0.295
+[2020.11.05-16.13.46:509][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EnergyCore_A4)
+[2020.11.05-16.13.47:590][512]Cmd: DELETE
+[2020.11.05-16.13.47:590][512]Cmd: ACTOR DELETE
+[2020.11.05-16.13.47:597][512]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.13.47:612][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.11.05-16.13.47:615][512]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.11.05-16.13.48:917][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EnergyCore_A3)
+[2020.11.05-16.13.49:524][622]Cmd: DELETE
+[2020.11.05-16.13.49:524][622]Cmd: ACTOR DELETE
+[2020.11.05-16.13.49:528][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.13.49:542][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.05-16.13.49:543][622]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.13.50:685][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EnergyCore_A5)
+[2020.11.05-16.13.51:410][729]Cmd: DELETE
+[2020.11.05-16.13.51:410][729]Cmd: ACTOR DELETE
+[2020.11.05-16.13.51:413][729]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.13.51:427][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.05-16.13.51:429][729]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.13.52:596][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EnergyCore_A2)
+[2020.11.05-16.13.53:301][837]Cmd: DELETE
+[2020.11.05-16.13.53:302][837]Cmd: ACTOR DELETE
+[2020.11.05-16.13.53:305][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.13.53:320][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.05-16.13.53:321][837]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.05-16.13.54:419][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EnergyCore_A)
+[2020.11.05-16.13.55:190][945]Cmd: DELETE
+[2020.11.05-16.13.55:190][945]Cmd: ACTOR DELETE
+[2020.11.05-16.13.55:194][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.13.55:208][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.11.05-16.13.55:209][945]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.05-16.13.56:728][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PortableLight)
+[2020.11.05-16.13.57:452][ 75]Cmd: DELETE
+[2020.11.05-16.13.57:452][ 75]Cmd: ACTOR DELETE
+[2020.11.05-16.13.57:457][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.13.57:471][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.05-16.13.57:472][ 75]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.05-16.13.58:606][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Case_A6)
+[2020.11.05-16.13.59:294][180]Cmd: DELETE
+[2020.11.05-16.13.59:294][180]Cmd: ACTOR DELETE
+[2020.11.05-16.13.59:298][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.13.59:312][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.11.05-16.13.59:313][180]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.14.00:202][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Case_A5)
+[2020.11.05-16.14.00:632][255]Cmd: DELETE
+[2020.11.05-16.14.00:632][255]Cmd: ACTOR DELETE
+[2020.11.05-16.14.00:637][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.00:649][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.05-16.14.00:651][255]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.14.01:521][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Case_A4)
+[2020.11.05-16.14.01:870][324]Cmd: DELETE
+[2020.11.05-16.14.01:870][324]Cmd: ACTOR DELETE
+[2020.11.05-16.14.01:874][324]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.01:887][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.05-16.14.01:889][324]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.14.02:930][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Case_A3)
+[2020.11.05-16.14.03:597][422]Cmd: DELETE
+[2020.11.05-16.14.03:597][422]Cmd: ACTOR DELETE
+[2020.11.05-16.14.03:600][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.03:614][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.05-16.14.03:616][422]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.05-16.14.04:501][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Case_A2)
+[2020.11.05-16.14.05:956][558]Cmd: DELETE
+[2020.11.05-16.14.05:957][558]Cmd: ACTOR DELETE
+[2020.11.05-16.14.05:960][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.05:976][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.05-16.14.05:977][558]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.11.05-16.14.07:169][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Case_A)
+[2020.11.05-16.14.07:829][665]Cmd: DELETE
+[2020.11.05-16.14.07:829][665]Cmd: ACTOR DELETE
+[2020.11.05-16.14.07:833][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.07:846][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.05-16.14.07:847][665]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.05-16.14.13:588][981]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_MatPreviewMesh_02)
+[2020.11.05-16.14.15:444][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.05-16.14.17:123][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MatPreviewMesh_02)
+[2020.11.05-16.14.18:351][245]Cmd: DELETE
+[2020.11.05-16.14.18:351][245]Cmd: ACTOR DELETE
+[2020.11.05-16.14.18:355][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.18:368][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.05-16.14.18:370][245]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.05-16.14.20:813][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Sphere)
+[2020.11.05-16.14.21:589][432]Cmd: DELETE
+[2020.11.05-16.14.21:589][432]Cmd: ACTOR DELETE
+[2020.11.05-16.14.21:593][432]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.21:606][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.05-16.14.21:607][432]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.05-16.14.30:070][938]LogEditorViewport: Clicking on Actor (LMB): BP_Toolbox_C (BP_Toolbox)
+[2020.11.05-16.14.32:142][ 57]Cmd: DELETE
+[2020.11.05-16.14.32:142][ 57]Cmd: ACTOR DELETE
+[2020.11.05-16.14.32:146][ 57]LogEditorActor: Deleted Actor: BP_Toolbox_C
+[2020.11.05-16.14.32:159][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.05-16.14.32:161][ 57]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.14.33:308][125]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.11.05-16.14.36:270][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall23)
+[2020.11.05-16.14.37:451][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ElectricalBox_Square)
+[2020.11.05-16.14.39:260][455]Cmd: DELETE
+[2020.11.05-16.14.39:260][455]Cmd: ACTOR DELETE
+[2020.11.05-16.14.39:264][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.39:265][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.39:265][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.39:279][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.11.05-16.14.39:281][455]LogEditorActor: Deleted 3 Actors (0.021 secs)
+[2020.11.05-16.14.40:907][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wire_Floor_B)
+[2020.11.05-16.14.41:959][610]Cmd: DELETE
+[2020.11.05-16.14.41:959][610]Cmd: ACTOR DELETE
+[2020.11.05-16.14.41:964][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.41:979][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.05-16.14.41:980][610]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.11.05-16.14.42:973][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.05-16.14.44:320][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wire_Wall_A)
+[2020.11.05-16.14.45:104][787]Cmd: DELETE
+[2020.11.05-16.14.45:104][787]Cmd: ACTOR DELETE
+[2020.11.05-16.14.45:108][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.45:124][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.11.05-16.14.45:126][787]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.11.05-16.14.46:251][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterDrum2)
+[2020.11.05-16.14.47:093][900]Cmd: DELETE
+[2020.11.05-16.14.47:093][900]Cmd: ACTOR DELETE
+[2020.11.05-16.14.47:098][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.47:110][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.05-16.14.47:112][900]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.05-16.14.48:271][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterDrum4)
+[2020.11.05-16.14.48:967][  6]Cmd: DELETE
+[2020.11.05-16.14.48:967][  6]Cmd: ACTOR DELETE
+[2020.11.05-16.14.48:972][  6]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.48:984][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.11.05-16.14.48:986][  6]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.14.50:181][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterDrum3)
+[2020.11.05-16.14.50:922][117]Cmd: DELETE
+[2020.11.05-16.14.50:922][117]Cmd: ACTOR DELETE
+[2020.11.05-16.14.50:926][117]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.50:941][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.05-16.14.50:942][117]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.05-16.14.51:936][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterDrum)
+[2020.11.05-16.14.52:742][220]Cmd: DELETE
+[2020.11.05-16.14.52:742][220]Cmd: ACTOR DELETE
+[2020.11.05-16.14.52:746][220]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.14.52:760][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.05-16.14.52:762][220]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.05-16.14.54:026][295]LogEditorViewport: Clicking on Actor (LMB): BP_Screwdriver_C (BP_Screwdriver2)
+[2020.11.05-16.14.54:776][335]Cmd: DELETE
+[2020.11.05-16.14.54:776][335]Cmd: ACTOR DELETE
+[2020.11.05-16.14.54:779][335]LogEditorActor: Deleted Actor: BP_Screwdriver_C
+[2020.11.05-16.14.54:792][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.05-16.14.54:794][335]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.05-16.14.55:908][401]LogEditorViewport: Clicking on Actor (LMB): BP_Screwdriver_C (BP_Screwdriver)
+[2020.11.05-16.14.56:514][433]Cmd: DELETE
+[2020.11.05-16.14.56:514][433]Cmd: ACTOR DELETE
+[2020.11.05-16.14.56:518][433]LogEditorActor: Deleted Actor: BP_Screwdriver_C
+[2020.11.05-16.14.56:535][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.05-16.14.56:537][433]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.11.05-16.14.57:862][512]LogEditorViewport: Clicking on Actor (LMB): BP_Screwdriver_C (BP_Screwdriver3)
+[2020.11.05-16.14.58:559][549]Cmd: DELETE
+[2020.11.05-16.14.58:559][549]Cmd: ACTOR DELETE
+[2020.11.05-16.14.58:564][549]LogEditorActor: Deleted Actor: BP_Screwdriver_C
+[2020.11.05-16.14.58:579][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.05-16.14.58:581][549]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.11.05-16.15.00:994][693]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.11.05-16.15.04:827][917]Cmd: DELETE
+[2020.11.05-16.15.04:827][917]Cmd: ACTOR DELETE
+[2020.11.05-16.15.08:061][917]LogSlate: Window 'Message' being destroyed
+[2020.11.05-16.15.08:069][917]Message dialog closed, result: No, title: Message, text: Actor TriggerBox is referenced by the level blueprint.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+Actor Begin Overlap Signature  Delegate Signature
+[2020.11.05-16.15.08:093][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.05-16.15.08:096][917]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2020.11.05-16.15.08:975][969]LogEditorViewport: Clicking Background
+[2020.11.05-16.15.10:166][ 38]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.11.05-16.15.11:378][105]Cmd: DELETE
+[2020.11.05-16.15.11:378][105]Cmd: ACTOR DELETE
+[2020.11.05-16.15.11:380][105]LogEditorActor: Deleted Actor: PointLight
+[2020.11.05-16.15.11:392][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.05-16.15.11:394][105]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.05-16.15.18:233][509]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_2.Level_2
+[2020.11.05-16.15.18:260][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.11.05-16.15.21:270][509]LogSlate: Window 'Save Content' being destroyed
+[2020.11.05-16.15.21:289][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.15.21:353][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.05-16.15.21:832][509]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3794EB67F489C3A81D6A06588B113D451.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.15.22:059][509]LogFileHelpers: Saving map 'Level_3' took 0.771
+[2020.11.05-16.15.22:060][509]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.15.22:060][509]LightingResults: New page: Lighting Build
+[2020.11.05-16.15.22:060][509]LoadErrors: New page: Loading map: Level_2.umap
+[2020.11.05-16.15.22:074][509]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.15.22:074][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.15.22:074][509]MapCheck: New page: Map Check
+[2020.11.05-16.15.22:075][509]LightingResults: New page: Lighting Build
+[2020.11.05-16.15.22:102][509]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002316DDD11C0), frame # 83509
+[2020.11.05-16.15.22:102][509]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002316CA41C00), frame # 83509
+[2020.11.05-16.15.22:104][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.11.05-16.15.22:334][509]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.15.22:334][509]LogAIModule: Creating AISystem for world Level_2
+[2020.11.05-16.15.22:334][509]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231B2C5B800), frame # 83509
+[2020.11.05-16.15.22:334][509]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231AD8C39C0), frame # 83509
+[2020.11.05-16.15.22:355][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.11.05-16.15.22:462][509]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.15.22:463][509]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.251ms to complete.
+[2020.11.05-16.15.22:463][509]LogFileHelpers: Loading map 'Level_2' took 0.403
+[2020.11.05-16.15.22:574][509]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.15.22:574][509]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.15.27:572][787]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.15.27:592][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.11.05-16.15.27:597][787]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.15.27:598][787]LightingResults: New page: Lighting Build
+[2020.11.05-16.15.27:598][787]LoadErrors: New page: Loading map: Level_3.umap
+[2020.11.05-16.15.27:601][787]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.15.27:601][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.15.27:601][787]MapCheck: New page: Map Check
+[2020.11.05-16.15.27:601][787]LightingResults: New page: Lighting Build
+[2020.11.05-16.15.27:619][787]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231AD8C39C0), frame # 83787
+[2020.11.05-16.15.27:619][787]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231B2C5B800), frame # 83787
+[2020.11.05-16.15.27:620][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.11.05-16.15.27:809][787]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.15.27:809][787]LogAIModule: Creating AISystem for world Level_3
+[2020.11.05-16.15.27:809][787]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002317D473000), frame # 83787
+[2020.11.05-16.15.27:809][787]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002316D93EAC0), frame # 83787
+[2020.11.05-16.15.27:830][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.11.05-16.15.27:925][787]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.15.27:925][787]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.194ms to complete.
+[2020.11.05-16.15.27:925][787]LogFileHelpers: Loading map 'Level_3' took 0.328
+[2020.11.05-16.15.33:736][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Terminal_A_UI)
+[2020.11.05-16.15.35:196][196]Cmd: DELETE
+[2020.11.05-16.15.35:196][196]Cmd: ACTOR DELETE
+[2020.11.05-16.15.35:200][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.15.35:200][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.15.35:215][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.05-16.15.35:217][196]LogEditorActor: Deleted 2 Actors (0.020 secs)
+[2020.11.05-16.15.36:624][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stool)
+[2020.11.05-16.15.37:369][319]Cmd: DELETE
+[2020.11.05-16.15.37:369][319]Cmd: ACTOR DELETE
+[2020.11.05-16.15.37:372][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.15.37:384][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.05-16.15.37:386][319]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.11.05-16.15.38:683][396]LogEditorViewport: Clicking on Actor (LMB): BP_MedBottle_b_C (BP_MedBottle_b)
+[2020.11.05-16.15.39:825][459]Cmd: DELETE
+[2020.11.05-16.15.39:825][459]Cmd: ACTOR DELETE
+[2020.11.05-16.15.39:828][459]LogEditorActor: Deleted Actor: BP_MedBottle_b_C
+[2020.11.05-16.15.39:841][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.05-16.15.39:842][459]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.11.05-16.15.41:828][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate_A3)
+[2020.11.05-16.15.42:534][615]Cmd: DELETE
+[2020.11.05-16.15.42:534][615]Cmd: ACTOR DELETE
+[2020.11.05-16.15.42:538][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.15.42:551][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.05-16.15.42:552][615]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.05-16.15.43:836][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate_A2)
+[2020.11.05-16.15.44:506][726]Cmd: DELETE
+[2020.11.05-16.15.44:506][726]Cmd: ACTOR DELETE
+[2020.11.05-16.15.44:509][726]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.15.44:523][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.05-16.15.44:525][726]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.15.45:737][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate_A)
+[2020.11.05-16.15.46:386][832]Cmd: DELETE
+[2020.11.05-16.15.46:386][832]Cmd: ACTOR DELETE
+[2020.11.05-16.15.46:389][832]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.15.46:404][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.05-16.15.46:406][832]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.05-16.15.47:717][910]LogEditorViewport: Clicking on Actor (LMB): BP_FirstAidKit_C (BP_FirstAidKit)
+[2020.11.05-16.15.48:858][973]Cmd: DELETE
+[2020.11.05-16.15.48:858][973]Cmd: ACTOR DELETE
+[2020.11.05-16.15.48:861][973]LogEditorActor: Deleted Actor: BP_FirstAidKit_C
+[2020.11.05-16.15.48:875][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.11.05-16.15.48:877][973]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.05-16.15.51:977][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ElectricalBox_Rectangle)
+[2020.11.05-16.15.53:301][232]Cmd: DELETE
+[2020.11.05-16.15.53:301][232]Cmd: ACTOR DELETE
+[2020.11.05-16.15.53:304][232]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.15.53:318][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.05-16.15.53:320][232]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.15.55:285][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Case_A7)
+[2020.11.05-16.15.56:476][415]Cmd: DELETE
+[2020.11.05-16.15.56:476][415]Cmd: ACTOR DELETE
+[2020.11.05-16.15.56:479][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.15.56:494][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.05-16.15.56:496][415]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.05-16.15.58:496][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WVD_Wires_A)
+[2020.11.05-16.16.00:053][622]Cmd: DELETE
+[2020.11.05-16.16.00:053][622]Cmd: ACTOR DELETE
+[2020.11.05-16.16.00:056][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.00:072][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.05-16.16.00:074][622]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.11.05-16.16.01:114][684]Cmd: TRANSACTION UNDO
+[2020.11.05-16.16.01:114][684]LogEditorTransaction: Undo Delete Actors
+[2020.11.05-16.16.05:085][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OxygenTank8)
+[2020.11.05-16.16.06:557][983]Cmd: DELETE
+[2020.11.05-16.16.06:557][983]Cmd: ACTOR DELETE
+[2020.11.05-16.16.06:563][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.06:577][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.05-16.16.06:579][983]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.11.05-16.16.09:007][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OxygenTank10)
+[2020.11.05-16.16.10:310][201]Cmd: DELETE
+[2020.11.05-16.16.10:310][201]Cmd: ACTOR DELETE
+[2020.11.05-16.16.10:313][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.10:325][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.05-16.16.10:327][201]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.11.05-16.16.20:835][798]Cmd: DELETE
+[2020.11.05-16.16.20:836][798]Cmd: ACTOR DELETE
+[2020.11.05-16.16.20:839][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.20:858][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.11.05-16.16.20:860][798]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.11.05-16.16.22:833][913]Cmd: DELETE
+[2020.11.05-16.16.22:833][913]Cmd: ACTOR DELETE
+[2020.11.05-16.16.22:836][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.22:852][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.11.05-16.16.22:854][913]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.11.05-16.16.23:945][976]Cmd: DELETE
+[2020.11.05-16.16.23:945][976]Cmd: ACTOR DELETE
+[2020.11.05-16.16.23:948][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.23:962][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.05-16.16.23:964][976]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.05-16.16.24:745][ 21]Cmd: DELETE
+[2020.11.05-16.16.24:745][ 21]Cmd: ACTOR DELETE
+[2020.11.05-16.16.24:748][ 21]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.24:762][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.11.05-16.16.24:763][ 21]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.16.25:543][ 66]Cmd: DELETE
+[2020.11.05-16.16.25:543][ 66]Cmd: ACTOR DELETE
+[2020.11.05-16.16.25:547][ 66]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.25:564][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.11.05-16.16.25:566][ 66]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.11.05-16.16.26:262][106]Cmd: DELETE
+[2020.11.05-16.16.26:262][106]Cmd: ACTOR DELETE
+[2020.11.05-16.16.26:266][106]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.26:279][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.11.05-16.16.26:281][106]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.16.27:721][190]Cmd: DELETE
+[2020.11.05-16.16.27:722][190]Cmd: ACTOR DELETE
+[2020.11.05-16.16.27:724][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.27:738][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.11.05-16.16.27:740][190]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.05-16.16.28:418][229]Cmd: DELETE
+[2020.11.05-16.16.28:418][229]Cmd: ACTOR DELETE
+[2020.11.05-16.16.28:420][229]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.28:434][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.11.05-16.16.28:436][229]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.05-16.16.29:150][270]Cmd: DELETE
+[2020.11.05-16.16.29:150][270]Cmd: ACTOR DELETE
+[2020.11.05-16.16.29:152][270]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.29:166][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.05-16.16.29:168][270]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.05-16.16.37:621][748]Cmd: DELETE
+[2020.11.05-16.16.37:622][748]Cmd: ACTOR DELETE
+[2020.11.05-16.16.37:624][748]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.16.37:640][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.05-16.16.37:641][748]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.05-16.16.44:039][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.16.44:105][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.05-16.16.44:311][ 91]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3E082962047FA0070BDA3DA8A6691BE8B.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.16.44:578][ 91]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.16.44:578][ 91]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.16.52:416][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew)
+[2020.11.05-16.16.54:171][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.05-16.17.02:775][160]Cmd: EDIT COPY
+[2020.11.05-16.17.02:991][173]Cmd: EDIT PASTE
+[2020.11.05-16.17.26:612][516]Cmd: EDIT COPY
+[2020.11.05-16.17.26:872][531]Cmd: EDIT PASTE
+[2020.11.05-16.17.33:761][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.17.33:844][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.11.05-16.17.34:073][898]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_312A4785B47092E7F3EA03FA8D123D5E2.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.17.34:419][898]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.17.34:419][898]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.18.14:912][325]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.11.05-16.18.25:665][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2020.11.05-16.18.27:130][ 47]Cmd: EDIT COPY
+[2020.11.05-16.18.27:373][ 61]Cmd: EDIT PASTE
+[2020.11.05-16.18.35:392][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew3)
+[2020.11.05-16.18.36:722][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew3)
+[2020.11.05-16.18.38:543][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2020.11.05-16.18.53:184][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.11.05-16.18.58:810][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2020.11.05-16.18.59:570][822]Cmd: EDIT COPY
+[2020.11.05-16.18.59:744][832]Cmd: EDIT PASTE
+[2020.11.05-16.19.06:866][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.19.06:942][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.11.05-16.19.07:147][199]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_38DE7EACB46B1E25B6DD8B58F41E8A3DB.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.19.07:405][199]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.19.07:405][199]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.19.19:791][941]LogEditorViewport: Clicking Background
+[2020.11.05-16.19.21:800][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew2)
+[2020.11.05-16.19.23:046][129]Cmd: EDIT COPY
+[2020.11.05-16.19.23:274][142]Cmd: EDIT PASTE
+[2020.11.05-16.19.35:711][788]Cmd: EDIT COPY
+[2020.11.05-16.19.35:883][798]Cmd: EDIT PASTE
+[2020.11.05-16.19.42:266][126]Cmd: EDIT COPY
+[2020.11.05-16.19.42:438][136]Cmd: EDIT PASTE
+[2020.11.05-16.19.49:240][486]LogEditorViewport: Clicking Background
+[2020.11.05-16.19.50:247][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.19.54:900][789]LogEditorViewport: Clicking Background
+[2020.11.05-16.19.57:076][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew6)
+[2020.11.05-16.20.00:160][ 78]LogEditorViewport: Clicking Background
+[2020.11.05-16.20.03:032][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2020.11.05-16.20.03:734][287]Cmd: EDIT COPY
+[2020.11.05-16.20.03:907][297]Cmd: EDIT PASTE
+[2020.11.05-16.20.10:309][621]LogEditorViewport: Clicking Background
+[2020.11.05-16.20.13:139][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.20.13:209][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.11.05-16.20.13:437][788]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_387B2EA6548EEB9DA041E55A926ADC304.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.20.13:740][788]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.20.13:740][788]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.20.15:684][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.11.05-16.20.20:657][162]Cmd: EDIT COPY
+[2020.11.05-16.20.20:847][173]Cmd: EDIT PASTE
+[2020.11.05-16.20.29:022][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall37)
+[2020.11.05-16.20.34:308][909]Cmd: EDIT COPY
+[2020.11.05-16.20.34:481][919]Cmd: EDIT PASTE
+[2020.11.05-16.20.40:602][249]LogEditorViewport: Clicking Background
+[2020.11.05-16.20.42:074][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.20.42:124][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.11.05-16.20.42:525][333]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_33DDECE0A44290841E6126682FC8E86FC.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.20.42:771][333]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.20.42:772][333]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.20.48:407][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew4)
+[2020.11.05-16.20.53:700][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew2)
+[2020.11.05-16.21.05:741][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2020.11.05-16.21.14:112][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2020.11.05-16.21.17:232][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall16)
+[2020.11.05-16.21.21:602][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.05-16.21.23:487][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall24)
+[2020.11.05-16.21.27:854][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2020.11.05-16.21.30:773][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall20)
+[2020.11.05-16.21.33:702][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.05-16.21.35:651][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.05-16.21.36:856][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall13)
+[2020.11.05-16.21.40:517][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall23)
+[2020.11.05-16.21.44:181][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.05-16.21.45:820][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall26)
+[2020.11.05-16.21.49:227][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall15)
+[2020.11.05-16.21.52:918][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall18)
+[2020.11.05-16.21.56:506][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall35)
+[2020.11.05-16.22.00:454][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall25)
+[2020.11.05-16.22.04:351][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall30)
+[2020.11.05-16.22.07:890][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall29)
+[2020.11.05-16.22.10:587][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall21)
+[2020.11.05-16.22.14:735][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall27)
+[2020.11.05-16.22.18:445][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall28)
+[2020.11.05-16.22.22:730][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall22)
+[2020.11.05-16.22.26:212][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall31)
+[2020.11.05-16.22.29:662][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall32)
+[2020.11.05-16.22.33:196][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.05-16.22.34:510][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.05-16.22.35:599][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall34)
+[2020.11.05-16.22.39:139][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall33)
+[2020.11.05-16.22.42:376][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall19)
+[2020.11.05-16.22.45:766][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_Small_A2)
+[2020.11.05-16.23.06:054][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.11.05-16.23.11:110][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.11.05-16.23.14:213][646]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.05-16.23.16:474][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall37)
+[2020.11.05-16.23.19:718][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall42)
+[2020.11.05-16.23.33:364][745]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.11.05-16.23.34:299][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall37)
+[2020.11.05-16.23.43:534][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall36)
+[2020.11.05-16.23.46:928][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall42)
+[2020.11.05-16.23.51:654][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew)
+[2020.11.05-16.23.55:153][851]Cmd: TRANSACTION UNDO
+[2020.11.05-16.23.55:154][851]LogEditorTransaction: Undo Move Actors
+[2020.11.05-16.23.56:152][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew3)
+[2020.11.05-16.24.11:830][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.24.14:077][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew3)
+[2020.11.05-16.24.27:657][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew6)
+[2020.11.05-16.24.30:530][738]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.05-16.24.31:889][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew3)
+[2020.11.05-16.24.34:411][944]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.05-16.24.35:484][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew6)
+[2020.11.05-16.24.36:624][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.24.37:593][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew4)
+[2020.11.05-16.24.40:748][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.24.40:837][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.11.05-16.24.41:030][287]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_364D76D45461BC341F3E66A926D561EAD.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.24.41:319][287]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.24.41:320][287]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.24.44:266][445]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-16.24.44:301][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-16.24.44:301][445]PIE: New page: PIE session: Level_3 (Nov 5, 2020, 6:24:44 AM)
+[2020.11.05-16.24.44:304][445]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.05-16.24.44:306][445]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.05-16.24.44:306][445]LogPlayLevel: Creating play world package: /Game/Assignment/Maps/UEDPIE_0_Level_3
+[2020.11.05-16.24.44:345][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039357s)
+[2020.11.05-16.24.44:349][445]LogAIModule: Creating AISystem for world Level_3
+[2020.11.05-16.24.44:349][445]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231EEC2CA00), frame # 114445
+[2020.11.05-16.24.44:349][445]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231E2C21580), frame # 114445
+[2020.11.05-16.24.44:350][445]LogPlayLevel: PIE: World Init took: (0.003948s)
+[2020.11.05-16.24.44:350][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Maps/Level_3.Level_3 to /Game/Assignment/Maps/UEDPIE_0_Level_3.Level_3 (0.043885s)
+[2020.11.05-16.24.44:362][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.11.05-16.24.44:364][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-16.24.44:364][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-16.24.44:364][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-16.24.44:364][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-16.24.44:364][445]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-16.24.44:365][445]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-16.24.44:365][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-16.24.44:365][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-16.24.44:365][445]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-16.24.44:365][445]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-16.24.44:376][445]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-16.24.44:376][445]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-16.24.44:555][445]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (3- Realtek Audio)
+[2020.11.05-16.24.44:556][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-16.24.44:556][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-16.24.44:556][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-16.24.44:559][445]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-16.24.44:586][445]LogInit: FAudioDevice initialized.
+[2020.11.05-16.25.44:846][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Muriel_Character/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2020.11.05-16.25.44:846][445]LogTexture: Display: Building textures: T_Muriel_Armslegs_Mask02 (AutoDXT, 4096X4096)
+[2020.11.05-16.25.44:846][445]LogTexture: Display: Building textures: T_Muriel_Upperbody_Mask02 (AutoDXT, 4096X4096)
+[2020.11.05-16.25.44:846][445]LogTexture: Display: Building textures: T_Master_Mouth_1_RGB (AutoDXT, 2048X2048)
+[2020.11.05-16.25.44:846][445]LogTexture: Display: Building textures: T_Master_Mouth_1_N (BC5, 2048X2048)
+[2020.11.05-16.25.44:846][445]LogTexture: Display: Building textures: T_Master_Mouth_1_COLOR (AutoDXT, 2048X2048)
+[2020.11.05-16.25.44:846][445]LogMaterial: Display: Missing cached shader map for material M_Muriel_Master, compiling. 
+[2020.11.05-16.25.45:013][445]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 105
+[2020.11.05-16.25.45:013][445]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 95
+[2020.11.05-16.25.45:013][445]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 85
+[2020.11.05-16.25.45:013][445]LogMaterial: Display: Missing cached shader map for material M_TearLine, compiling. 
+[2020.11.05-16.25.45:492][445]LogMaterial: Display: Missing cached shader map for material M_Muriel_Face, compiling. 
+[2020.11.05-16.25.45:653][445]LogMaterial: Display: Missing cached shader map for material M_Muriel_Face, compiling. 
+[2020.11.05-16.25.45:805][445]LogMaterial: Display: Missing cached shader map for material M_EyelashMaster_N, compiling. 
+[2020.11.05-16.25.46:052][445]LogMaterial: Display: Missing cached shader map for material M_Eye_Occlusion, compiling. 
+[2020.11.05-16.25.46:171][445]LogMaterial: Display: Missing cached shader map for material M_Eye_Occlusion, compiling. 
+[2020.11.05-16.25.46:316][445]LogMaterial: Display: Missing cached shader map for material M_EyeRefractive, compiling. 
+[2020.11.05-16.25.46:595][445]LogMaterial: Display: Missing cached shader map for material M_EyeRefractive, compiling. 
+[2020.11.05-16.25.46:870][445]LogMaterial: Display: Missing cached shader map for material M_Mouth_Master, compiling. 
+[2020.11.05-16.25.47:076][445]LogSkeletalMesh: Building Skeletal Mesh Muriel_GDC...
+[2020.11.05-16.25.47:500][445]LogSkeletalMesh: Built Skeletal Mesh [0.42s] /Game/ParagonMuriel/Characters/Heroes/Muriel/Meshes/Muriel_GDC.Muriel_GDC
+[2020.11.05-16.25.47:558][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Travel_Fwd.Travel_Fwd
+[2020.11.05-16.25.47:558][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Travel_Bwd_Rt_Start.Travel_Bwd_Rt_Start
+[2020.11.05-16.25.47:558][445]LogLoad: Game class is 'My_Muriel_Gamemode_BP_C'
+[2020.11.05-16.25.47:595][445]LogWorld: Bringing World /Game/Assignment/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 60) at 2020.11.05-11.25.47
+[2020.11.05-16.25.47:600][445]LogWorld: Bringing up level for play took: 0.010562
+[2020.11.05-16.25.47:601][445]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.11.05-16.25.47:630][445]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0026 seconds. Added 20 classes and 0 folders.
+[2020.11.05-16.25.47:639][445]PIE: Server logged in
+[2020.11.05-16.25.47:642][445]PIE: Play in editor total start time 63.343 seconds.
+[2020.11.05-16.25.49:003][447]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Jump_Apex.Jump_Apex
+[2020.11.05-16.25.49:305][448]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Jump_Land.Jump_Land
+[2020.11.05-16.25.49:577][453]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Jump_Start.Jump_Start
+[2020.11.05-16.25.49:692][457]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Muriel_Character/Crouch_Walk_Bwd_Rifle_Hip1.Crouch_Walk_Bwd_Rifle_Hip1
+[2020.11.05-16.25.50:166][477]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Muriel_Character/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2020.11.05-16.25.50:666][481]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Muriel_Character/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2020.11.05-16.25.51:223][484]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assignment/Muriel_Character/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2020.11.05-16.25.52:055][491]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Idle.Idle
+[2020.11.05-16.25.52:390][494]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Jog_Bwd.Jog_Bwd
+[2020.11.05-16.25.58:153][508]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Jog_Fwd.Jog_Fwd
+[2020.11.05-16.25.58:570][511]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Jog_Left.Jog_Left
+[2020.11.05-16.25.59:045][514]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1626
+[2020.11.05-16.25.59:270][515]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Jog_Right.Jog_Right
+[2020.11.05-16.25.59:628][518]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Travel_Bwd.Travel_Bwd
+[2020.11.05-16.26.00:433][522]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Travel_Bwd_Lft.Travel_Bwd_Lft
+[2020.11.05-16.26.01:365][527]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMuriel/Characters/Heroes/Muriel/Animations/Travel_Bwd_Rt.Travel_Bwd_Rt
+[2020.11.05-16.26.09:325][693]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1616
+[2020.11.05-16.26.57:350][883]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1606
+[2020.11.05-16.27.50:047][185]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1596
+[2020.11.05-16.27.51:966][233]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1586
+[2020.11.05-16.28.24:149][ 27]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1576
+[2020.11.05-16.29.36:120][779]LogDerivedDataCache: Warning: FDerivedDataBackendCorruptionWrapper: Corrupted file, ignoring and deleting TEXTURE_564290F8998644E39A2118D5C683187B_BC5_8C8B637C4573D193E1A264A935264BDE___E7615DFFE9CB6B81FFE586191881E9646F4EAA5D.
+[2020.11.05-16.29.36:156][780]LogDerivedDataCache: Warning: FDerivedDataBackendCorruptionWrapper: Corrupted file, ignoring and deleting TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_92FCA85845F7415EFB37ECA2473A4__9CDC25DE413BCE52178AEEDDA96E85F8F0210EB4.
+[2020.11.05-16.29.36:157][780]LogDerivedDataCache: Warning: FDerivedDataBackendCorruptionWrapper: Corrupted file, ignoring and deleting TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_188303424B9740809C2E16B44188F__B84A1321BBFD7722B37A7FC40D6C80B5D09D0981.
+[2020.11.05-16.29.36:763][783]LogTexture: Display: Building textures: T_WVD_Wires_A_Rough (AutoDXT, 4096X4096)
+[2020.11.05-16.29.47:704][783]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1566
+[2020.11.05-16.29.47:704][783]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1556
+[2020.11.05-16.29.47:704][783]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1546
+[2020.11.05-16.29.48:535][783]LogTexture: Display: Building textures: T_WVD_Wires_A_N_Normals (BC5, 4096X4096)
+[2020.11.05-16.29.53:829][783]LogTexture: Display: Building textures: T_WVD_Wires_A_M (AutoDXT, 4096X4096)
+[2020.11.05-16.30.03:174][949]LogDerivedDataCache: Warning: FDerivedDataBackendCorruptionWrapper: Corrupted file, ignoring and deleting TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_92FCA85845F7415EFB37ECA2473A4__77220FDCC08BF7FF182ED37D761901FA81387C57.
+[2020.11.05-16.30.03:272][951]LogDerivedDataCache: Warning: FDerivedDataBackendCorruptionWrapper: Corrupted file, ignoring and deleting TEXTURE_564290F8998644E39A2118D5C683187B_BC5_8C8B637C4573D193E1A264A935264BDE___0B0A796BBC20C900A31F63CA30A887EF607FC3A9.
+[2020.11.05-16.30.03:510][951]LogTexture: Display: Building textures: T_WVD_Wires_A_M (AutoDXT, 4096X4096)
+[2020.11.05-16.30.05:771][952]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1536
+[2020.11.05-16.30.05:803][953]LogDerivedDataCache: Warning: FDerivedDataBackendCorruptionWrapper: Corrupted file, ignoring and deleting TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_188303424B9740809C2E16B44188F__1E0A9D81D5DA0E283F0EFD1CF76D21A3A7C2011A.
+[2020.11.05-16.30.06:193][954]LogTexture: Display: Building textures: T_WVD_Wires_A_Rough (AutoDXT, 4096X4096)
+[2020.11.05-16.30.17:759][954]LogTexture: Display: Building textures: T_WVD_Wires_A_N_Normals (BC5, 4096X4096)
+[2020.11.05-16.30.22:770][955]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1526
+[2020.11.05-16.30.23:358][966]LogDerivedDataCache: Warning: FDerivedDataBackendCorruptionWrapper: Corrupted file, ignoring and deleting TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_188303424B9740809C2E16B44188F__DEEC2CDDE93CFFC07259FE8C0BF72402824008FA.
+[2020.11.05-16.30.23:857][968]LogTexture: Display: Building textures: T_WVD_Wires_A_Rough (AutoDXT, 4096X4096)
+[2020.11.05-16.30.35:020][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-16.30.35:021][969]LogWorld: BeginTearingDown for /Game/Assignment/Maps/UEDPIE_0_Level_3
+[2020.11.05-16.30.35:022][969]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.30.35:023][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.30.35:040][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-16.30.35:045][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.30.35:130][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-16.30.35:134][969]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231E2C21580), frame # 119969
+[2020.11.05-16.30.35:134][969]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231EEC2CA00), frame # 119969
+[2020.11.05-16.30.35:141][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.11.05-16.30.35:221][970]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.11.05-16.30.40:788][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WVD_Wires_A)
+[2020.11.05-16.30.44:539][476]Cmd: DELETE
+[2020.11.05-16.30.44:539][476]Cmd: ACTOR DELETE
+[2020.11.05-16.30.44:548][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.30.44:573][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.11.05-16.30.44:576][476]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.11.05-16.30.49:549][749]Cmd: DELETE
+[2020.11.05-16.30.49:549][749]Cmd: ACTOR DELETE
+[2020.11.05-16.30.49:564][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-16.30.49:567][749]LogEditorActor: Deleted Actor: Brush
+[2020.11.05-16.30.49:589][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.05-16.30.49:597][749]LogEditorActor: Deleted 2 Actors (0.048 secs)
+[2020.11.05-16.30.53:334][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew3)
+[2020.11.05-16.30.57:304][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.30.57:370][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.11.05-16.30.57:806][140]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3D0B5CEAC4980F3404F3D8C94B970463A.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.30.58:064][140]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.30.58:065][140]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.31.02:025][271]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1516
+[2020.11.05-16.31.02:496][298]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.11.05-16.31.03:551][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.31.08:233][555]LogDerivedDataCache: Warning: FDerivedDataBackendCorruptionWrapper: Corrupted file, ignoring and deleting TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_92FCA85845F7415EFB37ECA2473A4__FAD01C87080FE67DFF0B7506B534E80EB47D4932.
+[2020.11.05-16.31.08:276][556]LogDerivedDataCache: Warning: FDerivedDataBackendCorruptionWrapper: Corrupted file, ignoring and deleting TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_188303424B9740809C2E16B44188F__1083AB8703F694A6958F5E6BE6DD1F8626A659C4.
+[2020.11.05-16.31.08:276][556]LogDerivedDataCache: Warning: FDerivedDataBackendCorruptionWrapper: Corrupted file, ignoring and deleting TEXTURE_564290F8998644E39A2118D5C683187B_BC5_8C8B637C4573D193E1A264A935264BDE___908B68FA02FBC64E158A2FBBA062C99E0F9C98D2.
+[2020.11.05-16.31.08:651][557]LogTexture: Display: Building textures: T_WVD_Wires_A_Rough (AutoDXT, 4096X4096)
+[2020.11.05-16.31.20:175][557]LogTexture: Display: Building textures: T_WVD_Wires_A_N_Normals (BC5, 4096X4096)
+[2020.11.05-16.31.25:330][557]LogTexture: Display: Building textures: T_WVD_Wires_A_M (AutoDXT, 4096X4096)
+[2020.11.05-16.31.27:783][567]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1506
+[2020.11.05-16.31.48:623][793]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1496
+[2020.11.05-16.31.56:371][250]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1486
+[2020.11.05-16.32.36:815][628]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1476
+[2020.11.05-16.32.44:402][ 75]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1466
+[2020.11.05-16.32.51:092][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew6)
+[2020.11.05-16.33.00:016][837]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.11.05-16.33.07:818][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.33.09:326][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew4)
+[2020.11.05-16.33.14:554][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.33.18:531][636]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1456
+[2020.11.05-16.33.20:469][728]Cmd: TRANSACTION UNDO
+[2020.11.05-16.33.20:469][728]LogEditorTransaction: Undo Move Actors
+[2020.11.05-16.33.35:793][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.33.36:295][399]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1446
+[2020.11.05-16.33.36:837][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.33.39:419][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.33.59:474][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.34.00:732][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.34.00:796][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.11.05-16.34.01:050][232]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3B02314D44205A1429C4BB8848C6D25CD.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.34.01:280][232]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.34.01:280][232]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.34.03:676][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew4)
+[2020.11.05-16.34.17:197][990]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1436
+[2020.11.05-16.34.24:315][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew2)
+[2020.11.05-16.34.31:619][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.34.31:696][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.05-16.34.31:999][698]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3618912804BE99501675BFC8EEAC216B5.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.34.32:188][698]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.34.32:189][698]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.34.36:642][765]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1426
+[2020.11.05-16.34.36:683][765]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FloorNew5)
+[2020.11.05-16.34.36:879][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorNew5)
+[2020.11.05-16.34.49:359][437]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1416
+[2020.11.05-16.35.03:462][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1406
+[2020.11.05-16.35.48:079][896]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1396
+[2020.11.05-16.35.51:012][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1386
+[2020.11.05-16.35.56:573][396]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1376
+[2020.11.05-16.36.45:115][259]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1366
+[2020.11.05-16.37.03:310][330]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1356
+[2020.11.05-16.37.21:379][391]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1346
+[2020.11.05-16.37.38:042][373]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1336
+[2020.11.05-16.37.49:811][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.37.50:177][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.11.05-16.37.50:574][ 61]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_32CCCE2934E62614AC3EA6EB9F6D4C2D1.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.37.50:780][ 61]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.37.50:780][ 61]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.38.05:210][907]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1326
+[2020.11.05-16.38.14:908][478]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1316
+[2020.11.05-16.38.35:565][696]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1306
+[2020.11.05-16.39.16:015][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1296
+[2020.11.05-16.39.23:518][521]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1286
+[2020.11.05-16.39.23:689][531]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1276
+[2020.11.05-16.40.07:474][111]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1266
+[2020.11.05-16.40.29:315][397]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1256
+[2020.11.05-16.40.38:388][669]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1246
+[2020.11.05-16.40.38:989][686]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1236
+[2020.11.05-16.40.42:137][772]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1226
+[2020.11.05-16.40.48:711][922]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1216
+[2020.11.05-16.40.49:057][934]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1206
+[2020.11.05-16.40.51:002][985]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1196
+[2020.11.05-16.40.58:310][169]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1186
+[2020.11.05-16.40.58:791][185]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1176
+[2020.11.05-16.41.02:121][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1166
+[2020.11.05-16.41.11:862][521]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1156
+[2020.11.05-16.41.13:737][554]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1146
+[2020.11.05-16.41.15:180][577]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1136
+[2020.11.05-16.41.23:554][752]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1126
+[2020.11.05-16.41.25:714][788]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1116
+[2020.11.05-16.41.27:110][826]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1106
+[2020.11.05-16.41.32:628][969]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1096
+[2020.11.05-16.41.36:108][ 61]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1086
+[2020.11.05-16.41.36:947][ 83]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1076
+[2020.11.05-16.41.44:129][260]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1066
+[2020.11.05-16.41.49:387][394]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1056
+[2020.11.05-16.41.49:533][399]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1046
+[2020.11.05-16.41.56:350][571]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1036
+[2020.11.05-16.42.02:018][723]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1026
+[2020.11.05-16.42.02:748][737]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1016
+[2020.11.05-16.42.07:447][860]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1006
+[2020.11.05-16.42.19:931][398]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 996
+[2020.11.05-16.42.20:392][425]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 986
+[2020.11.05-16.42.26:012][756]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 976
+[2020.11.05-16.42.37:034][405]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 966
+[2020.11.05-16.42.46:644][971]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 956
+[2020.11.05-16.42.49:485][138]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 946
+[2020.11.05-16.42.58:147][648]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 936
+[2020.11.05-16.43.06:681][143]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 926
+[2020.11.05-16.43.14:031][576]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 916
+[2020.11.05-16.43.22:460][ 19]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 906
+[2020.11.05-16.43.28:935][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.43.29:000][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.05-16.43.29:413][272]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3562582B94FF7D4F37388B0B14A7BE932.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.43.29:556][272]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.43.29:556][272]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.43.32:216][425]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 896
+[2020.11.05-16.43.32:642][450]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 886
+[2020.11.05-16.43.49:689][454]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 876
+[2020.11.05-16.43.54:144][716]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 866
+[2020.11.05-16.44.01:748][163]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 856
+[2020.11.05-16.44.07:621][509]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 846
+[2020.11.05-16.44.18:070][123]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 836
+[2020.11.05-16.44.23:076][417]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 826
+[2020.11.05-16.44.24:498][486]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 816
+[2020.11.05-16.44.37:281][237]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 806
+[2020.11.05-16.44.40:098][403]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 796
+[2020.11.05-16.44.43:250][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 786
+[2020.11.05-16.44.53:146][169]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 776
+[2020.11.05-16.44.53:967][217]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 766
+[2020.11.05-16.44.58:990][513]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 756
+[2020.11.05-16.45.10:976][218]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 746
+[2020.11.05-16.45.11:143][228]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 736
+[2020.11.05-16.45.12:385][301]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 726
+[2020.11.05-16.45.30:279][352]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 716
+[2020.11.05-16.45.31:761][439]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 706
+[2020.11.05-16.45.32:186][464]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 696
+[2020.11.05-16.45.48:167][391]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 686
+[2020.11.05-16.45.48:877][433]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 676
+[2020.11.05-16.45.52:023][618]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 666
+[2020.11.05-16.46.03:353][284]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 656
+[2020.11.05-16.46.03:742][307]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 646
+[2020.11.05-16.46.07:382][521]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 636
+[2020.11.05-16.46.19:248][219]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 626
+[2020.11.05-16.46.20:147][272]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 616
+[2020.11.05-16.46.23:517][470]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 606
+[2020.11.05-16.46.39:562][414]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 596
+[2020.11.05-16.46.40:948][495]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 586
+[2020.11.05-16.46.41:778][543]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 576
+[2020.11.05-16.46.58:537][515]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 566
+[2020.11.05-16.47.03:090][783]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 556
+[2020.11.05-16.47.03:861][828]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 546
+[2020.11.05-16.47.20:251][793]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 536
+[2020.11.05-16.47.21:390][860]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 526
+[2020.11.05-16.47.24:205][ 25]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 516
+[2020.11.05-16.47.40:307][969]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 506
+[2020.11.05-16.47.42:430][ 94]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 496
+[2020.11.05-16.47.43:101][133]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 486
+[2020.11.05-16.48.01:293][204]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 476
+[2020.11.05-16.48.01:323][206]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 466
+[2020.11.05-16.48.06:734][524]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 456
+[2020.11.05-16.48.27:895][770]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 446
+[2020.11.05-16.48.30:286][911]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 436
+[2020.11.05-16.48.34:678][169]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 426
+[2020.11.05-16.48.45:538][808]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 416
+[2020.11.05-16.48.52:999][247]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 406
+[2020.11.05-16.48.54:211][318]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 396
+[2020.11.05-16.49.04:832][942]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 386
+[2020.11.05-16.49.16:958][654]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 376
+[2020.11.05-16.49.17:243][671]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 366
+[2020.11.05-16.49.24:778][114]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 356
+[2020.11.05-16.49.38:896][925]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 346
+[2020.11.05-16.49.41:432][ 74]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 336
+[2020.11.05-16.49.41:451][ 75]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 326
+[2020.11.05-16.49.57:757][ 32]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 316
+[2020.11.05-16.49.59:650][143]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 306
+[2020.11.05-16.50.02:251][296]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 296
+[2020.11.05-16.50.17:827][211]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 286
+[2020.11.05-16.50.20:638][376]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 276
+[2020.11.05-16.50.20:810][386]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 266
+[2020.11.05-16.50.39:124][463]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 256
+[2020.11.05-16.50.40:895][567]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 246
+[2020.11.05-16.50.44:848][800]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 236
+[2020.11.05-16.51.06:127][ 54]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 226
+[2020.11.05-16.51.09:300][241]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 216
+[2020.11.05-16.51.12:780][446]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 206
+[2020.11.05-16.51.26:336][243]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 196
+[2020.11.05-16.51.31:385][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 186
+[2020.11.05-16.51.34:414][718]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 176
+[2020.11.05-16.51.45:682][380]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 166
+[2020.11.05-16.51.55:771][974]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 156
+[2020.11.05-16.51.58:627][142]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 146
+[2020.11.05-16.52.00:277][239]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 136
+[2020.11.05-16.52.14:173][ 38]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 126
+[2020.11.05-16.52.15:164][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 116
+[2020.11.05-16.52.16:368][167]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 106
+[2020.11.05-16.52.29:573][943]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 96
+[2020.11.05-16.52.31:637][ 64]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 86
+[2020.11.05-16.52.32:179][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 76
+[2020.11.05-16.52.47:676][  8]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 66
+[2020.11.05-16.52.47:893][ 21]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 56
+[2020.11.05-16.52.52:285][280]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2020.11.05-16.53.09:243][279]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.11.05-16.53.12:810][489]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.11.05-16.53.15:194][629]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.11.05-16.53.25:655][244]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.11.05-16.53.26:876][316]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.11.05-16.53.28:664][421]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.11.05-16.53.31:551][591]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.11.05-16.53.31:701][599]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.11.05-16.54.40:929][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.54.41:296][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.05-16.54.41:723][714]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_3D9643E794A033B68509A17BD5FFEF947.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.54.41:957][714]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.54.41:957][714]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.56.21:271][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.56.21:663][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.05-16.56.21:933][669]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_39FB4BDA843AA27A0E96E5C924E6D4D38.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.56.22:093][669]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.56.22:094][669]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.56.30:934][178]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_2.Level_2
+[2020.11.05-16.56.30:951][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.11.05-16.56.30:953][178]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.56.30:953][178]LightingResults: New page: Lighting Build
+[2020.11.05-16.56.30:953][178]LoadErrors: New page: Loading map: Level_2.umap
+[2020.11.05-16.56.30:958][178]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.56.30:958][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.56.30:958][178]MapCheck: New page: Map Check
+[2020.11.05-16.56.30:958][178]LightingResults: New page: Lighting Build
+[2020.11.05-16.56.30:981][178]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002316D93EAC0), frame # 204178
+[2020.11.05-16.56.30:981][178]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002317D473000), frame # 204178
+[2020.11.05-16.56.30:985][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.05-16.56.31:227][178]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.56.31:227][178]LogAIModule: Creating AISystem for world Level_2
+[2020.11.05-16.56.31:227][178]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231CB834800), frame # 204178
+[2020.11.05-16.56.31:227][178]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231DCC4B880), frame # 204178
+[2020.11.05-16.56.31:252][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.11.05-16.56.31:326][178]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.56.31:327][178]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.209ms to complete.
+[2020.11.05-16.56.31:327][178]LogFileHelpers: Loading map 'Level_2' took 0.374
+[2020.11.05-16.58.20:312][674]Cmd: EDIT COPY
+[2020.11.05-16.58.23:115][834]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.58.23:143][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.11.05-16.58.23:151][834]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.58.23:151][834]LightingResults: New page: Lighting Build
+[2020.11.05-16.58.23:151][834]LoadErrors: New page: Loading map: Level_3.umap
+[2020.11.05-16.58.23:155][834]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.58.23:155][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.58.23:155][834]MapCheck: New page: Map Check
+[2020.11.05-16.58.23:155][834]LightingResults: New page: Lighting Build
+[2020.11.05-16.58.23:171][834]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231DCC4B880), frame # 209834
+[2020.11.05-16.58.23:171][834]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231CB834800), frame # 209834
+[2020.11.05-16.58.23:173][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.11.05-16.58.23:428][834]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.58.23:428][834]LogAIModule: Creating AISystem for world Level_3
+[2020.11.05-16.58.23:428][834]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231598E6C00), frame # 209834
+[2020.11.05-16.58.23:428][834]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002316DDD1E40), frame # 209834
+[2020.11.05-16.58.23:454][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.11.05-16.58.23:510][834]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.58.23:510][834]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2020.11.05-16.58.23:510][834]LogFileHelpers: Loading map 'Level_3' took 0.360
+[2020.11.05-16.58.25:623][929]Cmd: EDIT PASTE
+[2020.11.05-16.58.38:714][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment/Maps/Level_3" FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-16.58.38:769][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.11.05-16.58.38:997][708]LogSavePackage: Moving 'E:/A2/GAM537_A1/A1/Saved/Level_35A039BAA4E2B9022ADFA5993D0D23749.tmp' to 'E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap'
+[2020.11.05-16.58.39:250][708]AssetCheck: New page: Asset Save: Level_3
+[2020.11.05-16.58.39:250][708]LogContentValidation: Display: Validating World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-16.59.15:511][861]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_2.Level_2
+[2020.11.05-16.59.15:583][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.11.05-16.59.15:585][861]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-16.59.15:585][861]LightingResults: New page: Lighting Build
+[2020.11.05-16.59.15:585][861]LoadErrors: New page: Loading map: Level_2.umap
+[2020.11.05-16.59.15:588][861]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-16.59.15:588][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-16.59.15:588][861]MapCheck: New page: Map Check
+[2020.11.05-16.59.15:588][861]LightingResults: New page: Lighting Build
+[2020.11.05-16.59.15:604][861]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002316DDD1E40), frame # 212861
+[2020.11.05-16.59.15:604][861]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000231598E6C00), frame # 212861
+[2020.11.05-16.59.15:606][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.11.05-16.59.15:975][861]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-16.59.15:975][861]LogAIModule: Creating AISystem for world Level_2
+[2020.11.05-16.59.15:975][861]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023194F69A00), frame # 212861
+[2020.11.05-16.59.15:975][861]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231AB9AD440), frame # 212861
+[2020.11.05-16.59.15:999][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.11.05-16.59.16:099][861]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-16.59.16:099][861]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.424ms to complete.
+[2020.11.05-16.59.16:100][861]LogFileHelpers: Loading map 'Level_2' took 0.515
+[2020.11.05-17.00.23:745][372]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assignment/Maps/Level_3.Level_3
+[2020.11.05-17.00.23:765][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.05-17.00.23:771][372]Cmd: MAP LOAD FILE="E:/A2/GAM537_A1/A1/Content/Assignment/Maps/Level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-17.00.23:771][372]LightingResults: New page: Lighting Build
+[2020.11.05-17.00.23:771][372]LoadErrors: New page: Loading map: Level_3.umap
+[2020.11.05-17.00.23:773][372]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-17.00.23:773][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-17.00.23:773][372]MapCheck: New page: Map Check
+[2020.11.05-17.00.23:773][372]LightingResults: New page: Lighting Build
+[2020.11.05-17.00.23:789][372]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000231AB9AD440), frame # 216372
+[2020.11.05-17.00.23:789][372]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023194F69A00), frame # 216372
+[2020.11.05-17.00.23:791][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.11.05-17.00.24:165][372]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-17.00.24:165][372]LogAIModule: Creating AISystem for world Level_3
+[2020.11.05-17.00.24:166][372]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231CA0A9E00), frame # 216372
+[2020.11.05-17.00.24:166][372]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002316DDD1D00), frame # 216372
+[2020.11.05-17.00.24:188][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.11.05-17.00.24:242][372]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-17.00.24:243][372]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2020.11.05-17.00.24:243][372]LogFileHelpers: Loading map 'Level_3' took 0.473
+[2020.11.05-17.00.30:201][694]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-17.00.30:679][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-17.00.30:680][694]PIE: New page: PIE session: Level_3 (Nov 5, 2020, 7:00:30 AM)
+[2020.11.05-17.00.30:680][694]LogPlayLevel: Creating play world package: /Game/Assignment/Maps/UEDPIE_0_Level_3
+[2020.11.05-17.00.30:721][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040321s)
+[2020.11.05-17.00.30:723][694]LogAIModule: Creating AISystem for world Level_3
+[2020.11.05-17.00.30:723][694]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000231FC8EFA00), frame # 216694
+[2020.11.05-17.00.30:723][694]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000231A0D2A200), frame # 216694
+[2020.11.05-17.00.30:724][694]LogPlayLevel: PIE: World Init took: (0.002654s)
+[2020.11.05-17.00.30:724][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment/Maps/Level_3.Level_3 to /Game/Assignment/Maps/UEDPIE_0_Level_3.Level_3 (0.043391s)
+[2020.11.05-17.00.30:745][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.11.05-17.00.30:747][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-17.00.30:747][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-17.00.30:748][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-17.00.30:748][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-17.00.30:748][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-17.00.30:748][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-17.00.30:748][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-17.00.30:748][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-17.00.30:749][694]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-17.00.30:749][694]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-17.00.30:798][694]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-17.00.30:798][694]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-17.00.30:966][694]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (3- Realtek Audio)
+[2020.11.05-17.00.30:966][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-17.00.30:966][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-17.00.30:967][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-17.00.30:969][694]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-17.00.30:998][694]LogInit: FAudioDevice initialized.
+[2020.11.05-17.00.31:010][694]LogLoad: Game class is 'My_Muriel_Gamemode_BP_C'
+[2020.11.05-17.00.31:016][694]LogWorld: Bringing World /Game/Assignment/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 60) at 2020.11.05-12.00.31
+[2020.11.05-17.00.31:017][694]LogWorld: Bringing up level for play took: 0.005487
+[2020.11.05-17.00.31:018][694]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.11.05-17.00.31:021][694]PIE: Server logged in
+[2020.11.05-17.00.31:022][694]PIE: Play in editor total start time 0.348 seconds.
+[2020.11.05-17.00.41:522][  5]Cmd: SELECT NONE
+[2020.11.05-17.00.41:670][  6]LogSlate: Took 0.023246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.05-17.01.08:864][290]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.05-17.01.10:017][290]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.152 s
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: 
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: Ensure condition failed: PlacementEditMode [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Editor/PlacementMode/Private/SPlacementModeTools.cpp] [Line: 606]
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: PlacementEditMode was null, but SPlacementModeTools is still accepting KeyDown events
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: Stack: 
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: [Callstack] 0x00007ff9eb1c4119 UE4Editor-PlacementMode.dll!UnknownFunction []
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: [Callstack] 0x00007ff9eb19ff85 UE4Editor-PlacementMode.dll!UnknownFunction []
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: [Callstack] 0x00007ffa10b3061b UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: [Callstack] 0x00007ffa10b9d561 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: [Callstack] 0x00007ffa10b90f16 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: [Callstack] 0x00007ffa3d967c25 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.05-17.01.10:017][290]LogOutputDevice: Error: [Callstack] 0x00007ffa3d955c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ffa3d96a609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ffa3d9517d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ffa5def5c7d USER32.dll!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ffa5def5672 USER32.dll!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ffa3d96bb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ff67a3368c4 UE4Editor.exe!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ff67a34ba7c UE4Editor.exe!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ff67a34bb5a UE4Editor.exe!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ff67a35e31d UE4Editor.exe!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ff67a36145a UE4Editor.exe!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ffa5d6c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: [Callstack] 0x00007ffa5edcce51 ntdll.dll!UnknownFunction []
+[2020.11.05-17.01.10:018][290]LogOutputDevice: Error: 
